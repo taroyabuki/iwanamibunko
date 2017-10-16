@@ -1,5 +1,5 @@
 # ISBNを使い回している岩波文庫タイトル（機械的抽出）
-1個のISBNに対応するNCIDが複数ある，つまりCiNii Booksでは区別されているがISBNでは区別できない岩波文庫タイトル。シリーズものの場合は第1巻のみを調べている。違いが軽微なら使い回してもよいという場合はisbnWithNicds2.mdを参照。（ISBN-13の先頭の978400と末尾の1桁，ISBN10の先頭の400と末尾の1桁は割愛している。）
+1個のISBNに対応するNCIDが複数ある，つまりISBNは同じだがCiNii Booksでは区別されている岩波文庫タイトル。[isbnWithNicds2.md](https://github.com/taroyabuki/iwanamibunko/blob/master/isbnWithNicds2.md)も参照。シリーズものの場合は第1巻のみを調べている。（『岩波文庫解説総目録』に合わせて，ISBN-13の先頭の978400と末尾の1桁，ISBN10の先頭の400と末尾の1桁は割愛している。）
 
 |  |ISBN|Title|NCID|Creators|
 |-:|:---|:----|:---|:-------|
