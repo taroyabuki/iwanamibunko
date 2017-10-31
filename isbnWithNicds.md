@@ -158,7 +158,7 @@
 |153|325127|守銭奴|http://ci.nii.ac.jp/ncid/BA88165268 / http://ci.nii.ac.jp/ncid/BN01986700|モリエール作 ; 鈴木力衛訳|
 |154|325128|スカパンの悪だくみ / スカパンの惡だくみ|http://ci.nii.ac.jp/ncid/BA8845412X / http://ci.nii.ac.jp/ncid/BN00981530|モリエール作 ; 鈴木力衛訳 / モリエール作 ; 鈴木力衞譯|
 |155|325129|病は気から|http://ci.nii.ac.jp/ncid/BA8816552X / http://ci.nii.ac.jp/ncid/BN01982641|モリエール作 ; 鈴木力衛訳|
-|156|325151|クレーヴの奥方 : 他2篇 / クレーヴの奥方 : 他ニ篇|http://ci.nii.ac.jp/ncid/BB00517776 / http://ci.nii.ac.jp/ncid/BN01987725|ラファイエット夫人作 ; 生島遼一訳|
+|156|325151|クレーヴの奥方 : 他2篇 / クレーヴの奥方 : 他二篇|http://ci.nii.ac.jp/ncid/BB00517776 / http://ci.nii.ac.jp/ncid/BN01987725|ラファイエット夫人作 ; 生島遼一訳|
 |157|325181|カンディード / カンディード : 他五篇|http://ci.nii.ac.jp/ncid/BA70862330 / http://ci.nii.ac.jp/ncid/BN00994011|ヴォルテール作 ; 吉村正一郎訳 / ヴォルテール作 ; 植田祐次訳|
 |158|325191|マノン・レスコー|http://ci.nii.ac.jp/ncid/BA81517141 / http://ci.nii.ac.jp/ncid/BN02494971|アベ・プレヴォ作 ; 河盛好蔵訳|
 |159|325221|フィガロの結婚|http://ci.nii.ac.jp/ncid/BA86067541 / http://ci.nii.ac.jp/ncid/BN01987780|ボオマルシェエ作 ; 辰野隆訳|
