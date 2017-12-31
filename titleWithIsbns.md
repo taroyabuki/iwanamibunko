@@ -19,5 +19,6 @@
 |歌行灯|310272 / 360028|http://ci.nii.ac.jp/ncid/BB23854050 / http://ci.nii.ac.jp/ncid/BN02547171|
 |源氏物語|300151 / 351015|http://ci.nii.ac.jp/ncid/BB24030845 / http://ci.nii.ac.jp/ncid/BN00909599|
 |物質と記憶|336458 / 389013|http://ci.nii.ac.jp/ncid/BB19516087 / http://ci.nii.ac.jp/ncid/BN01778554|
+|真空地帯|310911 / 360031|http://ci.nii.ac.jp/ncid/BB25097342 / http://ci.nii.ac.jp/ncid/BN00966038|
 |草の葉ホイットマン詩集|310369 / 323091|http://ci.nii.ac.jp/ncid/BN00937743 / http://ci.nii.ac.jp/ncid/BN01982175|
 |青年|310054 / 360026|http://ci.nii.ac.jp/ncid/BB23438930 / http://ci.nii.ac.jp/ncid/BN01033769|
