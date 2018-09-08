@@ -24,8 +24,6 @@
 
 [![表紙](https://images-fe.ssl-images-amazon.com/images/P/4000612093.09.jpg)](https://www.amazon.co.jp/dp/4000612093?tag=inquisitor-22)
 
-[短い説明](https://github.com/taroyabuki/iwanamibunko)
-
 90年を超える歴史，約6000冊のコレクションを誇る岩波文庫が重要な文庫であることは間違いありません。しかし，その歴史のためか，書誌に関してはいろいろと難しいことがあります（そもそも，6000の数え方がよくわかりません）。次のような問題があります。
 
 1. ISBNの使い回し
