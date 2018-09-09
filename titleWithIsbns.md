@@ -6,16 +6,16 @@ isbn|ncid|title|creators|date
 358001|https://ci.nii.ac.jp/ncid/BB13217312|インディアスの破壊についての簡潔な報告|ラス・カサス著 ; 染田秀藤訳|2013
 322321|https://ci.nii.ac.jp/ncid/BN00955472|ジェイン・エア|シャーロット・ブロンティ作 ; 遠藤寿子訳|1957
 357002|https://ci.nii.ac.jp/ncid/BB13481682|ジェイン・エア|シャーロット・ブロンテ作 ; 河島弘美訳|2013
-373001|https://ci.nii.ac.jp/ncid/BB1716040X|スケッチ・ブック|アーヴィング作 ; 齊藤昇訳|2014
 323021|https://ci.nii.ac.jp/ncid/BN00925904|スケッチ・ブック|アーヴィング作 ; 高垣松雄譯|1935
+373001|https://ci.nii.ac.jp/ncid/BB1716040X|スケッチ・ブック|アーヴィング作 ; 齊藤昇訳|2014
 336014|https://ci.nii.ac.jp/ncid/BN01844193|テアイテトス|プラトン著 ; 田中美知太郎訳|1966
 358002|https://ci.nii.ac.jp/ncid/BB17515855|テアイテトス|プラトン著 ; 田中美知太郎訳|2014
 310061|https://ci.nii.ac.jp/ncid/BN01024746|ファウスト|[ゲーテ著] ; 森林太郎譯|1928
 324062|https://ci.nii.ac.jp/ncid/BN01034932|ファウスト|ゲーテ作 ; 相良守峯訳|1958
 342094|https://ci.nii.ac.jp/ncid/BN00916641|プロテスタンティズムの倫理と資本主義の精神|マックス・ウェーバー著 ; 梶山力, 大塚久雄譯|1955
 342093|https://ci.nii.ac.jp/ncid/BN02949302|プロテスタンティズムの倫理と資本主義の精神|マックス・ヴェーバー著 ; 大塚久雄訳|1989
-375086|https://ci.nii.ac.jp/ncid/BB17166891|マラルメ詩集|[マラルメ著] ; 渡辺守章訳|2014
 325481|https://ci.nii.ac.jp/ncid/BN01982845|マラルメ詩集|マラルメ [著] ; 鈴木信太郎譯|1963
+375086|https://ci.nii.ac.jp/ncid/BB17166891|マラルメ詩集|[マラルメ著] ; 渡辺守章訳|2014
 342011|https://ci.nii.ac.jp/ncid/BN00915591|ユートピアだより|ウィリアム・モリス作 ; 松村達雄訳|1968
 359031|https://ci.nii.ac.jp/ncid/BB13216830|ユートピアだより|ウィリアム・モリス作 ; 川端康雄訳|2013
 327411|https://ci.nii.ac.jp/ncid/BN00938633|即興詩人|アンデルセン作 ; 大畑末吉訳|1960
@@ -24,21 +24,21 @@ isbn|ncid|title|creators|date
 201189|https://ci.nii.ac.jp/ncid/BB12218364|存在と時間|ハイデガー著 ; 熊野純彦訳|2013
 326197|https://ci.nii.ac.jp/ncid/BN00402032|復活|トルストイ作 ; 中村白葉訳|1979
 357005|https://ci.nii.ac.jp/ncid/BB16085477|復活|トルストイ作 ; 藤沼貴訳|2014
-375087|https://ci.nii.ac.jp/ncid/BB20220736|恋愛論|スタンダール著 ; 杉本圭子訳|2015
 325261|https://ci.nii.ac.jp/ncid/BN05040391|恋愛論|スタンダール著 ; 前川堅市訳|1959
-360033|https://ci.nii.ac.jp/ncid/BB25564186|桜の実の熟する時|島崎藤村作|2018
+375087|https://ci.nii.ac.jp/ncid/BB20220736|恋愛論|スタンダール著 ; 杉本圭子訳|2015
 310237|https://ci.nii.ac.jp/ncid/BN01033703|桜の実の熟する時|島崎藤村作|1969
-360028|https://ci.nii.ac.jp/ncid/BB23854050|歌行燈|泉鏡花作|2017
+360033|https://ci.nii.ac.jp/ncid/BB25564186|桜の実の熟する時|島崎藤村作|2018
 310272|https://ci.nii.ac.jp/ncid/BN02547171|歌行燈|泉鏡花作|1988
-351015|https://ci.nii.ac.jp/ncid/BB24030845|源氏物語|[紫式部著] ; 柳井滋 [ほか] 校注|2017
+360028|https://ci.nii.ac.jp/ncid/BB23854050|歌行燈|泉鏡花作|2017
 300151|https://ci.nii.ac.jp/ncid/BN00909599|源氏物語|[紫式部著] ; 山岸徳平校注|1965
-389013|https://ci.nii.ac.jp/ncid/BB19516087|物質と記憶|ベルクソン著 ; 熊野純彦訳|2015
+351015|https://ci.nii.ac.jp/ncid/BB24030845|源氏物語|[紫式部著] ; 柳井滋 [ほか] 校注|2017
 336458|https://ci.nii.ac.jp/ncid/BN01778554|物質と記憶|ベルグソン著 ; 高橋里美譯|1936
-360032|https://ci.nii.ac.jp/ncid/BB25760741|田舎教師|田山花袋作|2018
+389013|https://ci.nii.ac.jp/ncid/BB19516087|物質と記憶|ベルクソン著 ; 熊野純彦訳|2015
 310212|https://ci.nii.ac.jp/ncid/BN00236046|田舎教師|田山花袋作|1980
+360032|https://ci.nii.ac.jp/ncid/BB25760741|田舎教師|田山花袋作|2018
 310911|https://ci.nii.ac.jp/ncid/BN00966038|眞空地帯|野間宏作|1956
 360031|https://ci.nii.ac.jp/ncid/BB25097342|真空地帯|野間宏作|2017
-323091|https://ci.nii.ac.jp/ncid/BN01982175|草の葉 : ホイットマン詩集|ホイットマン [著] ; 杉木喬, 鍋島能弘, 酒本雅之訳|1969
 310369|https://ci.nii.ac.jp/ncid/BN00937743|草の葉 : ホヰットマン詩集|有島武郎選譯|1934
-360026|https://ci.nii.ac.jp/ncid/BB23438930|青年|森鷗外作|2017
+323091|https://ci.nii.ac.jp/ncid/BN01982175|草の葉 : ホイットマン詩集|ホイットマン [著] ; 杉木喬, 鍋島能弘, 酒本雅之訳|1969
 310054|https://ci.nii.ac.jp/ncid/BN01033769|青年|森鷗外作|1969
+360026|https://ci.nii.ac.jp/ncid/BB23438930|青年|森鷗外作|2017

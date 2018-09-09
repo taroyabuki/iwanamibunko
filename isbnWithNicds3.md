@@ -213,6 +213,8 @@ isbn|ncid|title|creators|date
 324363|https://ci.nii.ac.jp/ncid/BB09918288|美しき惑いの年|カロッサ作 ; 手塚富雄訳|2012
 324364|https://ci.nii.ac.jp/ncid/BN0104705X|若き日の変転|カロッサ作 ; 斎藤栄治訳|1955
 324364|https://ci.nii.ac.jp/ncid/BB09705152|若き日の変転|カロッサ作 ; 斎藤栄治訳|2012
+324365|https://ci.nii.ac.jp/ncid/BN01041224|幼年時代|カロッサ作 ; 齋藤榮治譯|1953
+324365|https://ci.nii.ac.jp/ncid/BB09401216|幼年時代|カロッサ作 ; 斎藤栄治訳|2012
 324374|https://ci.nii.ac.jp/ncid/BN00904686|ジョゼフ・フーシェ : ある政治的人間の肖像|シュテファン・ツワイク著 ; 高橋禎二, 秋山英夫訳|1979
 324374|https://ci.nii.ac.jp/ncid/BB07975495|ジョゼフ・フーシェ : ある政治的人間の肖像|シュテファン・ツワイク著 ; 高橋禎二, 秋山英夫訳|2011
 325021|https://ci.nii.ac.jp/ncid/BN00850587|ガルガンチュワ物語|フランソワ・ラブレー作 ; 渡辺一夫訳|1973
@@ -358,6 +360,8 @@ isbn|ncid|title|creators|date
 333251|https://ci.nii.ac.jp/ncid/BB02121426|ブッダ最後の旅 : 大パリニッバーナ経|中村元訳|2010
 333261|https://ci.nii.ac.jp/ncid/BN01798369|明恵上人集|久保田淳, 山口明穂校注|1981
 333261|https://ci.nii.ac.jp/ncid/BB00975522|明恵上人集|久保田淳, 山口明穂校注|2009
+334051|https://ci.nii.ac.jp/ncid/BN00931623|歴史|ヘロドトス[著] ; 松平千秋訳|1971
+334051|https://ci.nii.ac.jp/ncid/BA8150945X|歴史|ヘロドトス[著] ; 松平千秋訳|2007
 334071|https://ci.nii.ac.jp/ncid/BN01810748|ガリア戦記|カエサル著 ; 近山金次訳|1964
 334071|https://ci.nii.ac.jp/ncid/BB04553545|ガリア戦記|カエサル著 ; 近山金次訳|2010
 334201|https://ci.nii.ac.jp/ncid/BN0095056X|古代への情熱 : シュリーマン自伝|シュリーマン著 ; 村田數之亮訳|1976

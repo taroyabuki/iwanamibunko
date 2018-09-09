@@ -66,8 +66,6 @@ isbn|ncid|title|creators|date
 324056|https://ci.nii.ac.jp/ncid/BA55496565|ヴィルヘルム・マイスターの遍歴時代|ゲーテ作 ; 山崎章甫訳|2002
 324109|https://ci.nii.ac.jp/ncid/BN05683449|ワ゛レンシュタイン|シルレル作 ; 鼓常良訳|1930
 324109|https://ci.nii.ac.jp/ncid/BA62073211|ヴァレンシュタイン|シラー作 ; 濱川祥枝訳|2003
-324365|https://ci.nii.ac.jp/ncid/BN01041224|幼年時代|カロッサ作 ; 齋藤榮治譯|1953
-324365|https://ci.nii.ac.jp/ncid/BB09401216|幼年時代|カロッサ作 ; 斎藤栄治訳|2012
 324381|https://ci.nii.ac.jp/ncid/BN01034921|変身 : 他一篇|カフカ作 ; 山下肇訳|1958
 324381|https://ci.nii.ac.jp/ncid/BA68667387|変身 ; 断食芸人|カフカ作 ; 山下肇, 山下萬里訳|2004
 324391|https://ci.nii.ac.jp/ncid/BN01026650|三文オペラ|ベルトルト・ブレヒト作 ; 千田是也訳|1961
@@ -127,8 +125,6 @@ isbn|ncid|title|creators|date
 332051|https://ci.nii.ac.jp/ncid/BA88243827|老子|蜂屋邦夫訳註|2008
 332611|https://ci.nii.ac.jp/ncid/BN00931430|ガーンディー聖書|ガーンディー [著] ; エルベール編 ; 蒲穆譯|1950
 332611|https://ci.nii.ac.jp/ncid/BB02633847|獄中からの手紙|ガンディー [著] ; 森本達雄訳|2010
-334051|https://ci.nii.ac.jp/ncid/BN00931623|歴史|ヘロドトス[著] ; 松平千秋訳|1971
-334051|https://ci.nii.ac.jp/ncid/BA8150945X|歴史|ヘロドトス[著] ; 松平千秋訳|2007
 336071|https://ci.nii.ac.jp/ncid/BN00762402|人生の短さについて : 他二篇|セネカ著 ; 茂手木元蔵訳|1980
 336071|https://ci.nii.ac.jp/ncid/BB01467312|生の短さについて : 他二篇|セネカ著 ; 大西英文訳|2010
 336072|https://ci.nii.ac.jp/ncid/BN00762526|怒りについて : 他一篇|セネカ著 ; 茂手木元蔵訳|1980
