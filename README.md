@@ -4,11 +4,13 @@
 
 ## 概要
 
-* isbnWithNicds.md: ISBNの使い回し（機械的抽出）。1個のISBNに複数のNCIDが対応する，つまりISBNは同じだがCiNii Booksでは区別されているもの
-* isbnWithNicds2.md: ISBNの使い回し（深刻なもの）。isbnWithNicds.mdのうち，訳者の変更や内容の大幅変更があったもの
-* isbnWithNicds3.md: isbnWithNicds.md（機械的抽出）には載っていて，isbnWithNicds2.md（深刻なもの）には載っていないもの
-* titleWithIsbns.md: ISBNが変わった岩波文庫タイトル。常識的には変わって当然だが，岩波文庫的には例外的
-* itemWithoutIsbn.md: CiNii Booksに登録されている岩波文庫タイトルで，ISBNがないもの（機械的抽出）
+ファイル名|重要度|内容|補足
+-|-|-|-
+isbnWithNicds.md|低|ISBNの使い回し|1個のISBNに複数のNCIDが対応する，つまりISBNは同じだがCiNii Booksでは区別されているものを，機械的に抽出した結果
+isbnWithNicds2.md|高|ISBNの使い回し|isbnWithNicds.mdのうち，訳者の変更や内容の大幅変更があったもの
+isbnWithNicds3.md|中|ISBNの使い回し|isbnWithNicds.md（機械的抽出）には載っていて，isbnWithNicds2.md（深刻なもの）には載っていないもの。（ISBNの使い回しが許容されるかもしれないもの）
+titleWithIsbns.md|低|ISBNの変更|ISBNが変わった岩波文庫タイトル。常識的には変わって当然だが，岩波文庫的には例外的
+itemWithoutIsbn.md|中|ISBNなし|CiNii Booksに登録されている岩波文庫タイトルで，ISBNがないもの（機械的抽出）
 
 ### 補足
 
@@ -17,7 +19,7 @@
 * [『水滸伝 : 完訳（全10巻）』](https://ci.nii.ac.jp/ncid/BA37967648)と[『水滸傳（全13巻）』](https://ci.nii.ac.jp/ncid/BN00976053)のように，第1巻のISBNは異なるが，途中（この例では第10巻）のISBNは同じであるようなものは抽出できない。
 * [『新訓萬葉集』](https://ci.nii.ac.jp/ncid/BN02932172)の上巻と[『万葉集』](https://ci.nii.ac.jp/ncid/BB11320467)のように，第1巻のISBNは同じだが，他の巻のISBNは異なるようなものは抽出できない。
 
-何を深刻な使い回しと見なすか，isbnWithNicds3.mdの中に深刻なものがあるかどうかは，議論の余地があるだろう。（isbnWithNicds2.mdに掲載されているものが深刻だということには，同意する人が多いと思う。）
+isbnWithNicds2.mdに掲載されているものが深刻だということには，同意する人が多いと思う。isbnWithNicds3.mdに掲載されているものが深刻ではないということには，疑問を感じる人が多いかもしれない。
 
 * 訳者あとがきが追加された場合（例：社会科学と社会政策にかかわる認識の「客観性」の[1998版]，[1999版
 ]，[2003版]）
