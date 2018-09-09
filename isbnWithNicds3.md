@@ -223,6 +223,8 @@ isbn|ncid|title|creators|date
 325121|https://ci.nii.ac.jp/ncid/BA88158295|女房学校 : 他二篇|モリエール作 ; 辰野隆, 鈴木力衛訳|2008
 325122|https://ci.nii.ac.jp/ncid/BN02546204|タルチュフ|モリエール作 ; 鈴木力衛訳|1974
 325122|https://ci.nii.ac.jp/ncid/BA88158127|タルチュフ|モリエール作 ; 鈴木力衛訳|2008
+325123|https://ci.nii.ac.jp/ncid/BN01011507|ドン・ジュアン|モリエール作 ; 鈴木力衛訳|1975
+325123|https://ci.nii.ac.jp/ncid/BA8815858X|ドン・ジュアン|モリエール作 ; 鈴木力衛訳|2008
 325124|https://ci.nii.ac.jp/ncid/BN03680858|孤客 : ミザントロオプ|モリエール作 ; 辰野隆訳|1976
 325124|https://ci.nii.ac.jp/ncid/BA8815793X|孤客 : ミザントロオプ|モリエール作 ; 辰野隆訳|2008
 325125|https://ci.nii.ac.jp/ncid/BN01011686|いやいやながら医者にされ|モリエール作 ; 鈴木力衛訳|1962

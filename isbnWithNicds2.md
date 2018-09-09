@@ -76,8 +76,6 @@ isbn|ncid|title|creators|date
 325061|https://ci.nii.ac.jp/ncid/BA70283617|日月両世界旅行記|シラノ・ド・ベルジュラック作 ; 赤木昭三訳|2005
 325071|https://ci.nii.ac.jp/ncid/BN00997563|嘘つき男|コルネイユ作 ; 岩瀬孝訳|1958
 325071|https://ci.nii.ac.jp/ncid/BA53466905|嘘つき男 ; 舞台は夢|コルネイユ作 ; 岩瀬孝, 井村順一訳|2001
-325123|https://ci.nii.ac.jp/ncid/BN01011507|ドン・ジュアン|モリエール作 ; 鈴木力衛訳|1975
-325123|https://ci.nii.ac.jp/ncid/BA8815858X|ドン・ジュアン|モリエール作 ; 鈴木力衛訳|2008
 325181|https://ci.nii.ac.jp/ncid/BN00994011|カンディード|ヴォルテール作 ; 吉村正一郎訳|1956
 325181|https://ci.nii.ac.jp/ncid/BA70862330|カンディード : 他五篇|ヴォルテール作 ; 植田祐次訳|2005
 325222|https://ci.nii.ac.jp/ncid/BN01521886|セヴィラの理髪師|ボーマルシェ作 ; 進藤誠一訳|1959
