@@ -21,7 +21,7 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 おくのほそ道 : 附曾良随行日記|松尾芭蕉著 ; 杉浦正一郎校註|https://ci.nii.ac.jp/ncid/BN03775127|1957
 おらが春 ; 我春集|一茶作 ; 荻原井泉水校訂|https://ci.nii.ac.jp/ncid/BN00995251|1927
 おらが春 ; 我春集|一茶作 ; 荻原井泉水校訂|https://ci.nii.ac.jp/ncid/BN1386852X|1927
-おらが春 ; 我春集|一茶作 ; 荻原井泉水校訂|https://ci.nii.ac.jp/ncid/BN08361416|1941
+おらが春 ; 我春集|一茶作 ; 荻原井泉水校訂|https://ci.nii.ac.jp/ncid/BN08361416|1937
 お伽草子|島津久基編 ; 市古貞次校訂|https://ci.nii.ac.jp/ncid/BN00909646|1936
 お氣に召すまま|シェイクスピア作 ; 阿部知二譯|https://ci.nii.ac.jp/ncid/BN06810111|1939
 お菊さん|ピエル・ロチ作 ; 野上豊一郎譯|https://ci.nii.ac.jp/ncid/BN08655949|1929
@@ -143,20 +143,20 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 イゼルギリ婆さん ; 秋の一夜 : 他二篇|ゴーリキイ作 ; 上田進訳|https://ci.nii.ac.jp/ncid/BN13759218|1937
 イゼルギリ婆さん・秋の一夜 : 他2篇|ゴーリキイ作 ; 上田進譯|https://ci.nii.ac.jp/ncid/BN01519829|1960
 イソップ寓話集|[イソップ著] ; 新村出校閲 ; 山本光雄譯|https://ci.nii.ac.jp/ncid/BN0105043X|1942
+ヰタ・セクスアリス|森鴎外作|https://ci.nii.ac.jp/ncid/BN00913803|1935
 イノック・アーデン|テニスン作 ; 入江直祐譯|https://ci.nii.ac.jp/ncid/BN00914828|1933
 イフィゲーニエ|ゲーテ作 ; 舟木重信譯|https://ci.nii.ac.jp/ncid/BN01025046|1942
 イミターシヨ・クリスチ : 基督のまねび|[トマス・ア・ケンピス著] ; 内村達三郎譯|https://ci.nii.ac.jp/ncid/BN13972678|1928
 ヰ゛ルヘルム・マイスター|ゲーテ作 ; 林久男譯|https://ci.nii.ac.jp/ncid/BA31197479|1927
 イワンの馬鹿 : 他九篇 : トルストイ民話集|トルストイ [著] ; 中村白葉譯|https://ci.nii.ac.jp/ncid/BA50379189|1932
+イワンの馬鹿 : 他九篇 : トルストイ民話集|トルストイ著 ; 中村白葉訳|https://ci.nii.ac.jp/ncid/BN12799818|1940
 イワンの馬鹿 : 他九篇 : トルストイ民話集|トルストイ [著] ; 中村白葉譯|https://ci.nii.ac.jp/ncid/BA46009379|1940
-イワンの馬鹿 : 他九篇 : トルストイ民話集|トルストイ著 ; 中村白葉訳|https://ci.nii.ac.jp/ncid/BN12799818|1950
 イワンの馬鹿 : 他八篇 : トルストイ民話集|中村白葉譯|https://ci.nii.ac.jp/ncid/BN01796013|1932
 イワ゛ン・イリッチの死|トルストイ作 ; 米川正夫譯|https://ci.nii.ac.jp/ncid/BN01799408|1928
 イワ゛ン・イリッチの死|トルストイ作 ; 米川正夫訳|https://ci.nii.ac.jp/ncid/BN01816325|1940
 イワン・イリッチの死|トルストイ作 ; 米川正夫訳|https://ci.nii.ac.jp/ncid/BN01524501|1940
 インディアン部落 ; 不敗の男 : 他11編|ヘミングウェイ作 ; 谷口陸男訳|https://ci.nii.ac.jp/ncid/BN00954516|1972
 イーリアス|ホメーロス [著] ; 呉茂一訳|https://ci.nii.ac.jp/ncid/BN0769898X|1964
-ヰタ・セクスアリス|森鴎外作|https://ci.nii.ac.jp/ncid/BN00913803|1935
 ウェーク フィールドの牧師|ゴールドスミス作 ; 神吉三郎訳|https://ci.nii.ac.jp/ncid/BN10785007|1937
 ウジェニー・グランデ|バルザック作 ; 水野亮譯|https://ci.nii.ac.jp/ncid/BN0098144X|1953
 エチカ : 倫理學|スピノザ [著] ; 畠中尚志訳|https://ci.nii.ac.jp/ncid/BN00913905|1951
@@ -209,8 +209,7 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 クオレ : 愛の学校|エドモンド・デ・アミーチス作 ; 前田晁訳|https://ci.nii.ac.jp/ncid/BN13645875|1929
 クオレ : 愛の学校|デ・アミーチス作 ; 柏熊達生訳|https://ci.nii.ac.jp/ncid/BN01050473|1952
 クリスマス・カロル|ディッケンズ作 ; 森田草平譯|https://ci.nii.ac.jp/ncid/BA57109069|1929
-クリスマス・カロル|ディッケンズ作 ; 森田草平譯|https://ci.nii.ac.jp/ncid/BN00917360|1929
-クリスマス・カロル|ディツケンス作 ; 森田草平譯|https://ci.nii.ac.jp/ncid/BA65364298|1936
+クリスマス・カロル|ディッケンス作 ; 森田草平譯|https://ci.nii.ac.jp/ncid/BN00917360|1936
 クレーヴの奥方|ラファイエット夫人作 ; 生島遼一譯|https://ci.nii.ac.jp/ncid/BN05602196|1937
 クレーヴの奥方 : 他2篇|ラファイエット夫人作 ; 生島遼一|https://ci.nii.ac.jp/ncid/BA73133723|NULL
 クレーヴの奥方 : 他2篇|ラファイエット夫人作 ; 生島遼一訳|https://ci.nii.ac.jp/ncid/BN01007441|1951
@@ -261,8 +260,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 スタニスラーフスキー自傳|島田謹二譯|https://ci.nii.ac.jp/ncid/BN06835429|1942
 ステロ|ヴィニー作 ; 平岡昇譯|https://ci.nii.ac.jp/ncid/BN00976155|1952
 スピノーザ哲學體系 : 原名倫理學|スピノーザ [著] ; 小尾範治譯|https://ci.nii.ac.jp/ncid/BN07381418|1927
-スペードの女王 : 他一篇|プーシキン作 ; 神西清譯|https://ci.nii.ac.jp/ncid/BA47737859|1933
 スペードの女王 : 他一篇|プーシキン作 ; 神西清譯|https://ci.nii.ac.jp/ncid/BN03780116|1933
+スペードの女王 : 他一篇|プーシキン作 ; 神西清譯|https://ci.nii.ac.jp/ncid/BA47737859|1933
 セム族の宗教|W.R.スミス著 ; 永橋卓介譯|https://ci.nii.ac.jp/ncid/BN01800471|1941
 セメント|グラトコーフ作 ; 井上満, 西本昭治訳|https://ci.nii.ac.jp/ncid/BN01520420|1960
 セヴィラの理髪師|ボーマルシェ作 ; 進藤誠一譯|https://ci.nii.ac.jp/ncid/BN0095803X|1938
@@ -520,7 +519,7 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 二重人格|ドストイェーフスキー作 ; 小沼文彦譯|https://ci.nii.ac.jp/ncid/BN01805792|1954
 五輪書|宮本武藏著 ; 高柳光壽校訂|https://ci.nii.ac.jp/ncid/BN01811172|1942
 五重塔|幸田露伴著|https://ci.nii.ac.jp/ncid/BN00977996|1927
-亜細亜の光|エドウィン・アーノルド作 ; 島村苳三訳|https://ci.nii.ac.jp/ncid/BN05586883|1940
+亞細亞の光|エドヰン・アーノルド作 ; 島村苳三譯|https://ci.nii.ac.jp/ncid/BN05586883|1940
 人さまざま|テオフラストス著 ; 吉田正通譯|https://ci.nii.ac.jp/ncid/BN00931102|1938
 人と超人|バーナード・ショー作 ; 市川又彦訳|https://ci.nii.ac.jp/ncid/BN00954141|1929
 人と超人|バァナード・ショウ作 ; 市川又彦譯|https://ci.nii.ac.jp/ncid/BB17359330|1929
@@ -768,7 +767,6 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 大尉の娘|プーシキン作 ; 神西清訳|https://ci.nii.ac.jp/ncid/BN05630362|1939
 大無量寿経||https://ci.nii.ac.jp/ncid/BN01966893|1963
 大無量寿経||https://ci.nii.ac.jp/ncid/BN11134503|1963
-大理石像 ; デュランデ城悲歌|アイヒェンドルフ作 ; 関泰祐訳|https://ci.nii.ac.jp/ncid/BB12112385|1955
 大石良雄|野上彌生子作|https://ci.nii.ac.jp/ncid/BA32804034|1928
 大鏡|和田英松校訂|https://ci.nii.ac.jp/ncid/BN14806630|1931
 大鏡|和田英松校訂|https://ci.nii.ac.jp/ncid/BA30261186|1932
@@ -894,7 +892,6 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 幸福な王子 : 童話集 他四篇|ワイルド作 ; 山田昌司訳|https://ci.nii.ac.jp/ncid/BN05611459|1938
 幸福者|武者小路実篤著|https://ci.nii.ac.jp/ncid/BN01528149|1927
 幸福者|武者小路実篤作|https://ci.nii.ac.jp/ncid/BN01032471|1938
-幸福論|ヒルティ著 ; 草間平作訳|https://ci.nii.ac.jp/ncid/BN05138714|1935
 幻想を追ふ女 : ハーディ短篇集 : 他五篇|森村豊譯|https://ci.nii.ac.jp/ncid/BN12275872|1932
 幻滅 墓地へゆく道 トニオ・クレエゲル|トオマス・マン[著] ; 實吉捷郎譯|https://ci.nii.ac.jp/ncid/BN06738160|1930
 幻滅 ; 墓地へゆく道 ; トニオ・クレエゲル|トオマス・マン[著] ; 日野捷郎譯|https://ci.nii.ac.jp/ncid/BN13107443|1930
@@ -1137,7 +1134,7 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 正法眼藏隨聞記 : 道元語録|懷奘編 ; 和辻哲郎校訂|https://ci.nii.ac.jp/ncid/BB00322438|1929
 正法眼藏隨聞記 : 道元語録|懷奘編 ; 和辻哲郎校訂|https://ci.nii.ac.jp/ncid/BN00994066|1929
 正法眼蔵随聞記 : 道元語録|懐奘編 ; 和辻哲郎校訂|https://ci.nii.ac.jp/ncid/BN07675962|1938
-正雪の二代目 : 他5篇|岡本綺堂作|https://ci.nii.ac.jp/ncid/BN01046250|1952
+正雪の二代目 : 他五篇|岡本綺堂作|https://ci.nii.ac.jp/ncid/BN01046250|1952
 武士道|新渡戸稲造著 ; 矢内原忠雄譯|https://ci.nii.ac.jp/ncid/BN00932615|1938
 武家義理物語|井原西鶴作 ; 和田萬吉校訂|https://ci.nii.ac.jp/ncid/BN02965284|1929
 武家義理物語|井原西鶴作 ; 横山重, 前田金五郎校注|https://ci.nii.ac.jp/ncid/BN00910587|1966
@@ -1183,8 +1180,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 河童|芥川竜之介著|https://ci.nii.ac.jp/ncid/BN01528706|1955
 法の精神|モンテスキュー著 ; 宮澤俊義譯|https://ci.nii.ac.jp/ncid/BN00932386|1928
 法句經|荻原雲來譯註|https://ci.nii.ac.jp/ncid/BN00993609|1935
-法王庁の抜穴|アンドレ・ジイド作 ; 石川淳訳|https://ci.nii.ac.jp/ncid/BN05056245|1928
 法王廳の拔穴|アンドレ・ジッド作 ; 石川淳譯|https://ci.nii.ac.jp/ncid/BA77423124|1928
+法王廳の拔穴|アンドレ・ジイド作 ; 石川淳譯|https://ci.nii.ac.jp/ncid/BN05056245|1937
 法華経|坂本幸男, 岩本裕訳注|https://ci.nii.ac.jp/ncid/BN01536384|1962
 法華義疏 : 聖徳太子御製|花山信勝校譯|https://ci.nii.ac.jp/ncid/BN06059089|1931
 波|山本有三著|https://ci.nii.ac.jp/ncid/BN00978092|1930
@@ -1415,7 +1412,7 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 自然論|エマスン著 ; 片上伸譯|https://ci.nii.ac.jp/ncid/BN13302802|1933
 興國史談|内村鑑三著|https://ci.nii.ac.jp/ncid/BN00924413|1948
 良人の自白|木下尚江作|https://ci.nii.ac.jp/ncid/BN00960698|1953
-芭蕉七部集|松尾芭蕉[ほか著] ; 伊藤松宇校訂|https://ci.nii.ac.jp/ncid/BN05797947|1927
+芭蕉七部集|松尾芭蕉 [ほか著] ; 伊藤松宇校訂|https://ci.nii.ac.jp/ncid/BN05797947|1927
 芭蕉俳句集|松尾芭蕉著 ; 潁原退藏校註|https://ci.nii.ac.jp/ncid/BN14870764|1932
 芭蕉俳句集|松尾芭蕉著 ; 潁原退藏校註|https://ci.nii.ac.jp/ncid/BN00993948|1941
 芭蕉俳句集|〔松尾芭蕉著〕 ; 中村俊定校注|https://ci.nii.ac.jp/ncid/BA30109895|1997
@@ -1586,8 +1583,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 道徳系譜學|ニーチェ著 ; 木場深定譯|https://ci.nii.ac.jp/ncid/BA34753954|1940
 道標|宮本百合子作|https://ci.nii.ac.jp/ncid/BN00911364|1955
 道草|夏目漱石著|https://ci.nii.ac.jp/ncid/BN08166421|1928
-道草|夏目漱石著|https://ci.nii.ac.jp/ncid/BA62595104|1942
 道草|夏目漱石著|https://ci.nii.ac.jp/ncid/BN01530027|1942
+道草|夏目漱石著|https://ci.nii.ac.jp/ncid/BA62595104|1942
 道草|夏目漱石著|https://ci.nii.ac.jp/ncid/BN01032609|1952
 遺産 ; 百万フラン|モーパッサン作 ; 川口篤訳|https://ci.nii.ac.jp/ncid/BN00992774|1955
 酒樽 : 他六篇|モーパッサン作 ; 水野亮譯|https://ci.nii.ac.jp/ncid/BN00958572|1941
@@ -1691,7 +1688,7 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 魏志倭人伝 ; 後漢書倭伝 ; 宋書倭国伝 ; 隋書倭国伝|和田清, 石原道博編訳|https://ci.nii.ac.jp/ncid/BN01535392|1951
 魏志倭人傳 ; 後漢書倭傳 ; 宋書倭國傳 ; 隋書倭國傳|和田清 , 石原道博編譯|https://ci.nii.ac.jp/ncid/BA34977678|1954
 魏志倭人傳 ; 後漢書倭傳 ; 宋書倭國傳 ; 隋書倭國傳|和田清, 石原道博編訳|https://ci.nii.ac.jp/ncid/BA51429147|1957
-魔の山|トオマス・マン作 ; 関泰祐, 望月市恵訳|https://ci.nii.ac.jp/ncid/BA88339074|1940
+魔の山|トオマス・マン作 ; 關泰祐, 望月市惠譯|https://ci.nii.ac.jp/ncid/BA88339074|1939
 魔の山|トオマス・マン作 ; 關泰祐, 望月市惠譯|https://ci.nii.ac.jp/ncid/BN01035061|1951
 魔の山|トーマス・マン作 ; 関泰祐, 望月市恵訳|https://ci.nii.ac.jp/ncid/BN01026719|1961
 魯迅選集|佐藤春夫, 増田渉譯|https://ci.nii.ac.jp/ncid/BN07839163|1935

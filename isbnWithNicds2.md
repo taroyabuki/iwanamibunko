@@ -135,8 +135,6 @@ isbn|ncid|title|creators|date
 336113|https://ci.nii.ac.jp/ncid/BA66723884|友情について|キケロー著 ; 中務哲郎訳|2004
 336131|https://ci.nii.ac.jp/ncid/BN01536817|方法序説|デカルト著 ; 落合太郎訳|1967
 336131|https://ci.nii.ac.jp/ncid/BA31335175|方法序説|デカルト著 ; 谷川多佳子訳|1997
-336383|https://ci.nii.ac.jp/ncid/BN03766126|幸福論|ヒルティ著 ; 草間平作訳|1961
-336383|https://ci.nii.ac.jp/ncid/BN00925449|幸福論|ヒルティ著 ; 草間平作, 大和邦太郎訳|1962
 336454|https://ci.nii.ac.jp/ncid/BN00914227|哲學入門 ; 變化の知覺|ベルクソン著 ; 河野與一譯|1952
 336454|https://ci.nii.ac.jp/ncid/BA37485727|思想と動くもの|ベルクソン著 ; 河野与一訳|1998
 336459|https://ci.nii.ac.jp/ncid/BN05616554|時間と自由|ベルクソン著 ; 服部紀訳|1937

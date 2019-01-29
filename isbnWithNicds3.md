@@ -4,6 +4,8 @@ isbn|ncid|title|creators|date
 300011|https://ci.nii.ac.jp/ncid/BA85253267|古事記|倉野憲司校注|2007
 300221|https://ci.nii.ac.jp/ncid/BN05537640|梁塵秘抄|[後白河天皇編著] ; 佐佐木信綱校訂|1941
 300221|https://ci.nii.ac.jp/ncid/BN01063067|梁塵秘抄|[後白河天皇編著] ; 佐佐木信綱校訂|1957
+300232|https://ci.nii.ac.jp/ncid/BB14321149|西行全歌集|[西行著] ; 久保田淳, 吉野朋美校注|2013
+300232|https://ci.nii.ac.jp/ncid/BB27405387|西行全歌集|[西行著] ; 久保田淳, 吉野朋美校注|2018
 301041|https://ci.nii.ac.jp/ncid/BN00922688|大鏡|松村博司校注|1964
 301041|https://ci.nii.ac.jp/ncid/BN11509628|大鏡|松村博司校注|1993
 302111|https://ci.nii.ac.jp/ncid/BN00235043|曾根崎心中 ; 冥途の飛脚 : 他五篇|近松門左衛門作 ; 祐田善雄校注|1977
@@ -368,8 +370,6 @@ isbn|ncid|title|creators|date
 334201|https://ci.nii.ac.jp/ncid/BA84743715|古代への情熱 : シュリーマン自伝|シュリーマン著 ; 村田数之亮訳|2007
 335021|https://ci.nii.ac.jp/ncid/BN00936117|音楽と音楽家|シューマン著 ; 吉田秀和訳|1958
 335021|https://ci.nii.ac.jp/ncid/BA8365534X|音楽と音楽家|シューマン著 ; 吉田秀和訳|2007
-335531|https://ci.nii.ac.jp/ncid/BN00936955|ゴッホの手紙|ゴッホ [著] ; エミル・ベルナール編 ; 硲伊之助訳|1955
-335531|https://ci.nii.ac.jp/ncid/BN00918669|ゴッホの手紙|ゴッホ [著] ; 硲伊之助訳|1978
 336011|https://ci.nii.ac.jp/ncid/BN04112613|ソクラテスの弁明 ; クリトン|プラトン著 ; 久保勉訳|1964
 336011|https://ci.nii.ac.jp/ncid/BA81509970|ソクラテスの弁明 ; クリトン|プラトン著 ; 久保勉訳|2007
 336012|https://ci.nii.ac.jp/ncid/BN04157961|ゴルギアス|プラトン著 ; 加来彰俊訳|1967
@@ -425,6 +425,8 @@ isbn|ncid|title|creators|date
 338131|https://ci.nii.ac.jp/ncid/BA89805092|コーラン|井筒俊彦訳|2009
 339124|https://ci.nii.ac.jp/ncid/BN00924049|種の起原|ダーウィン著 ; 八杉竜一訳|1963
 339124|https://ci.nii.ac.jp/ncid/BN04343059|種の起原|ダーウィン著 ; 八杉龍一訳|1990
+339441|https://ci.nii.ac.jp/ncid/BA78367288|不完全性定理|ゲーデル [著] ; 林晋, 八杉満利子訳・解説|2006
+339441|https://ci.nii.ac.jp/ncid/BB27178525|不完全性定理|ゲーデル [著] ; 林晋, 八杉満利子訳・解説|2015
 340041|https://ci.nii.ac.jp/ncid/BN00015761|リヴァイアサン|ホッブズ著 ; 水田洋訳|1954
 340041|https://ci.nii.ac.jp/ncid/BN07263149|リヴァイアサン|ホッブズ著 ; 水田洋訳|1992
 340121|https://ci.nii.ac.jp/ncid/BN00908188|リンカーン演説集|[リンカーン著] ; 高木八尺, 斎藤光訳|1957

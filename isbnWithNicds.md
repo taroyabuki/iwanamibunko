@@ -8,6 +8,8 @@ isbn|ncid|title|creators|date
 300051|https://ci.nii.ac.jp/ncid/BB11320467|万葉集|佐竹昭広 [ほか] 校注|2013
 300221|https://ci.nii.ac.jp/ncid/BN05537640|梁塵秘抄|[後白河天皇編著] ; 佐佐木信綱校訂|1941
 300221|https://ci.nii.ac.jp/ncid/BN01063067|梁塵秘抄|[後白河天皇編著] ; 佐佐木信綱校訂|1957
+300232|https://ci.nii.ac.jp/ncid/BB14321149|西行全歌集|[西行著] ; 久保田淳, 吉野朋美校注|2013
+300232|https://ci.nii.ac.jp/ncid/BB27405387|西行全歌集|[西行著] ; 久保田淳, 吉野朋美校注|2018
 301041|https://ci.nii.ac.jp/ncid/BN00922688|大鏡|松村博司校注|1964
 301041|https://ci.nii.ac.jp/ncid/BN11509628|大鏡|松村博司校注|1993
 302111|https://ci.nii.ac.jp/ncid/BN00235043|曾根崎心中 ; 冥途の飛脚 : 他五篇|近松門左衛門作 ; 祐田善雄校注|1977
@@ -493,8 +495,6 @@ isbn|ncid|title|creators|date
 334201|https://ci.nii.ac.jp/ncid/BA84743715|古代への情熱 : シュリーマン自伝|シュリーマン著 ; 村田数之亮訳|2007
 335021|https://ci.nii.ac.jp/ncid/BN00936117|音楽と音楽家|シューマン著 ; 吉田秀和訳|1958
 335021|https://ci.nii.ac.jp/ncid/BA8365534X|音楽と音楽家|シューマン著 ; 吉田秀和訳|2007
-335531|https://ci.nii.ac.jp/ncid/BN00936955|ゴッホの手紙|ゴッホ [著] ; エミル・ベルナール編 ; 硲伊之助訳|1955
-335531|https://ci.nii.ac.jp/ncid/BN00918669|ゴッホの手紙|ゴッホ [著] ; 硲伊之助訳|1978
 336011|https://ci.nii.ac.jp/ncid/BN04112613|ソクラテスの弁明 ; クリトン|プラトン著 ; 久保勉訳|1964
 336011|https://ci.nii.ac.jp/ncid/BA81509970|ソクラテスの弁明 ; クリトン|プラトン著 ; 久保勉訳|2007
 336012|https://ci.nii.ac.jp/ncid/BN04157961|ゴルギアス|プラトン著 ; 加来彰俊訳|1967
@@ -532,8 +532,6 @@ isbn|ncid|title|creators|date
 336353|https://ci.nii.ac.jp/ncid/BB02962714|死に至る病|キェルケゴール著 ; 斎藤信治訳|2010
 336361|https://ci.nii.ac.jp/ncid/BN00925245|西洋哲学史|シュヴェーグラー [著] ; 谷川徹三, 松村一人訳|1958
 336361|https://ci.nii.ac.jp/ncid/BA81512443|西洋哲学史|シュヴェーグラー [著] ; 谷川徹三, 松村一人訳|2007
-336383|https://ci.nii.ac.jp/ncid/BN03766126|幸福論|ヒルティ著 ; 草間平作訳|1961
-336383|https://ci.nii.ac.jp/ncid/BN00925449|幸福論|ヒルティ著 ; 草間平作, 大和邦太郎訳|1962
 336391|https://ci.nii.ac.jp/ncid/BN01844047|悲劇の誕生|ニーチェ著 ; 秋山英夫訳|1966
 336391|https://ci.nii.ac.jp/ncid/BB03799379|悲劇の誕生|ニーチェ著 ; 秋山英夫訳|2010
 336394|https://ci.nii.ac.jp/ncid/BN01537751|道徳の系譜|ニーチェ著 ; 木場深定訳|1964
@@ -581,6 +579,8 @@ isbn|ncid|title|creators|date
 339191|https://ci.nii.ac.jp/ncid/BN09275659|ファーブル昆虫記 : 完訳|ファーブル [著] ; 山田吉彦, 林達夫訳|1993
 339321|https://ci.nii.ac.jp/ncid/BA69728760|雑種植物の研究|メンデル著 ; 小泉丹訳|1965
 339321|https://ci.nii.ac.jp/ncid/BA39461275|雑種植物の研究|メンデル [著] ; 岩槻邦男, 須原凖平訳|1999
+339441|https://ci.nii.ac.jp/ncid/BA78367288|不完全性定理|ゲーデル [著] ; 林晋, 八杉満利子訳・解説|2006
+339441|https://ci.nii.ac.jp/ncid/BB27178525|不完全性定理|ゲーデル [著] ; 林晋, 八杉満利子訳・解説|2015
 340021|https://ci.nii.ac.jp/ncid/BN00062375|世界憲法集|宮沢俊義編|1983
 340021|https://ci.nii.ac.jp/ncid/BA80135693|世界憲法集|高橋和之編|2007
 340021|https://ci.nii.ac.jp/ncid/BB08888760|世界憲法集|高橋和之編|2012
