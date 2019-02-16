@@ -20,7 +20,6 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 おかめ笹|永井荷風作|https://ci.nii.ac.jp/ncid/BN00946030|1938
 おくのほそ道 : 附曾良随行日記|松尾芭蕉著 ; 杉浦正一郎校註|https://ci.nii.ac.jp/ncid/BN03775127|1957
 おらが春 ; 我春集|一茶作 ; 荻原井泉水校訂|https://ci.nii.ac.jp/ncid/BN00995251|1927
-おらが春 ; 我春集|一茶作 ; 荻原井泉水校訂|https://ci.nii.ac.jp/ncid/BN1386852X|1927
 おらが春 ; 我春集|一茶作 ; 荻原井泉水校訂|https://ci.nii.ac.jp/ncid/BN08361416|1937
 お伽草子|島津久基編 ; 市古貞次校訂|https://ci.nii.ac.jp/ncid/BN00909646|1936
 お氣に召すまま|シェイクスピア作 ; 阿部知二譯|https://ci.nii.ac.jp/ncid/BN06810111|1939
@@ -148,9 +147,7 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 イフィゲーニエ|ゲーテ作 ; 舟木重信譯|https://ci.nii.ac.jp/ncid/BN01025046|1942
 イミターシヨ・クリスチ : 基督のまねび|[トマス・ア・ケンピス著] ; 内村達三郎譯|https://ci.nii.ac.jp/ncid/BN13972678|1928
 ヰ゛ルヘルム・マイスター|ゲーテ作 ; 林久男譯|https://ci.nii.ac.jp/ncid/BA31197479|1927
-イワンの馬鹿 : 他九篇 : トルストイ民話集|トルストイ [著] ; 中村白葉譯|https://ci.nii.ac.jp/ncid/BA50379189|1932
 イワンの馬鹿 : 他九篇 : トルストイ民話集|トルストイ著 ; 中村白葉訳|https://ci.nii.ac.jp/ncid/BN12799818|1940
-イワンの馬鹿 : 他九篇 : トルストイ民話集|トルストイ [著] ; 中村白葉譯|https://ci.nii.ac.jp/ncid/BA46009379|1940
 イワンの馬鹿 : 他八篇 : トルストイ民話集|中村白葉譯|https://ci.nii.ac.jp/ncid/BN01796013|1932
 イワ゛ン・イリッチの死|トルストイ作 ; 米川正夫譯|https://ci.nii.ac.jp/ncid/BN01799408|1928
 イワ゛ン・イリッチの死|トルストイ作 ; 米川正夫訳|https://ci.nii.ac.jp/ncid/BN01816325|1940
@@ -327,9 +324,9 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 ヒューム人性論|太田善男譯|https://ci.nii.ac.jp/ncid/BN08129618|1933
 ビュビュ・ド・モンパルナス|フィリップ作 ; 淀野隆三譯|https://ci.nii.ac.jp/ncid/BN00980006|1953
 ピエルとジャン|モウパッサン作 ; 前田晁譯|https://ci.nii.ac.jp/ncid/BN00972449|1928
-ピエルとジャン|モウパッサン作 ; 前田晁訳|https://ci.nii.ac.jp/ncid/BN05652886|1930
 ピエルとジャン|モウパッサン作 ; 前田晁訳|https://ci.nii.ac.jp/ncid/BN13746012|1938
 ピエルとジヤン|モウパツサン作 ; 前田晁譯|https://ci.nii.ac.jp/ncid/BB04188315|1928
+ピエルとジヤン|モウパツサン作 ; 前田晁譯|https://ci.nii.ac.jp/ncid/BN05652886|1930
 ピノッキオ|コッローディ作 ; 柏熊達生譯|https://ci.nii.ac.jp/ncid/BN01048631|1950
 ピータァ・パン|ヂェイ・エム・バリ作 ; 本多顕彰訳|https://ci.nii.ac.jp/ncid/BN05653550|1933
 ピーター・パンとウェンディ|J.M.バリー作 ; 石井桃子訳|https://ci.nii.ac.jp/ncid/BN00940136|1957
@@ -765,8 +762,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 大地と人類の進化 : 歴史への地理學的序論|フェーヴル著 ; 飯塚浩二譯|https://ci.nii.ac.jp/ncid/BN12082154|1941
 大寺学校 ; ゆく年|久保田万太郎著|https://ci.nii.ac.jp/ncid/BN1604965X|1955
 大尉の娘|プーシキン作 ; 神西清訳|https://ci.nii.ac.jp/ncid/BN05630362|1939
-大無量寿経||https://ci.nii.ac.jp/ncid/BN01966893|1963
 大無量寿経||https://ci.nii.ac.jp/ncid/BN11134503|1963
+大無量寿経||https://ci.nii.ac.jp/ncid/BN01966893|1963
 大石良雄|野上彌生子作|https://ci.nii.ac.jp/ncid/BA32804034|1928
 大鏡|和田英松校訂|https://ci.nii.ac.jp/ncid/BN14806630|1931
 大鏡|和田英松校訂|https://ci.nii.ac.jp/ncid/BA30261186|1932
@@ -1299,7 +1296,7 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 社会科学方法論|マックス・ウェーバー [著] ; 恒藤恭校閲 ; 富永祐治, 立野保男共譯|https://ci.nii.ac.jp/ncid/BA30751334|1954
 祖妣|グリルパルツェル作 ; 岡本修助訳|https://ci.nii.ac.jp/ncid/BN05630034|1929
 祝詞・壽詞|千田憲編|https://ci.nii.ac.jp/ncid/BN00937936|1935
-神々の復活 : レオナルド・ダ・ヰ゛ンチ|メレジュコーフスキイ作 ; 米川正夫譯|https://ci.nii.ac.jp/ncid/BN01806015|1935
+神々の復活 : レオナルド・ダ・ヸンチ|メレジュコーフスキイ作 ; 米川正夫譯|https://ci.nii.ac.jp/ncid/BN01806015|1935
 神々は渇く|アナトール・フランス作 ; 水野成夫譯|https://ci.nii.ac.jp/ncid/BN05597063|1937
 神皇正統記|[北畠親房著] ; 山田孝雄校訂|https://ci.nii.ac.jp/ncid/BB10735649|1934
 神皇正統記|[北畠親房著] ; 山田孝雄校訂|https://ci.nii.ac.jp/ncid/BN00946198|1934
@@ -1583,8 +1580,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 道徳系譜學|ニーチェ著 ; 木場深定譯|https://ci.nii.ac.jp/ncid/BA34753954|1940
 道標|宮本百合子作|https://ci.nii.ac.jp/ncid/BN00911364|1955
 道草|夏目漱石著|https://ci.nii.ac.jp/ncid/BN08166421|1928
-道草|夏目漱石著|https://ci.nii.ac.jp/ncid/BN01530027|1942
 道草|夏目漱石著|https://ci.nii.ac.jp/ncid/BA62595104|1942
+道草|夏目漱石著|https://ci.nii.ac.jp/ncid/BN01530027|1942
 道草|夏目漱石著|https://ci.nii.ac.jp/ncid/BN01032609|1952
 遺産 ; 百万フラン|モーパッサン作 ; 川口篤訳|https://ci.nii.ac.jp/ncid/BN00992774|1955
 酒樽 : 他六篇|モーパッサン作 ; 水野亮譯|https://ci.nii.ac.jp/ncid/BN00958572|1941
