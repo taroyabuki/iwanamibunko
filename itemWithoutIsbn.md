@@ -323,10 +323,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 パルムの僧院|スタンダール作 ; 生島遼一譯|https://ci.nii.ac.jp/ncid/BN00975527|1952
 ヒューム人性論|太田善男譯|https://ci.nii.ac.jp/ncid/BN08129618|1933
 ビュビュ・ド・モンパルナス|フィリップ作 ; 淀野隆三譯|https://ci.nii.ac.jp/ncid/BN00980006|1953
-ピエルとジャン|モウパッサン作 ; 前田晁譯|https://ci.nii.ac.jp/ncid/BN00972449|1928
-ピエルとジャン|モウパッサン作 ; 前田晁訳|https://ci.nii.ac.jp/ncid/BN13746012|1938
-ピエルとジヤン|モウパツサン作 ; 前田晁譯|https://ci.nii.ac.jp/ncid/BB04188315|1928
-ピエルとジヤン|モウパツサン作 ; 前田晁譯|https://ci.nii.ac.jp/ncid/BN05652886|1930
+ピエルとジャン|モウパッサン作 ; 前田晁譯|https://ci.nii.ac.jp/ncid/BN00972449|1938
+ピエルとジヤン|モウパツサン作 ; 前田晁譯|https://ci.nii.ac.jp/ncid/BN05652886|1928
 ピノッキオ|コッローディ作 ; 柏熊達生譯|https://ci.nii.ac.jp/ncid/BN01048631|1950
 ピータァ・パン|ヂェイ・エム・バリ作 ; 本多顕彰訳|https://ci.nii.ac.jp/ncid/BN05653550|1933
 ピーター・パンとウェンディ|J.M.バリー作 ; 石井桃子訳|https://ci.nii.ac.jp/ncid/BN00940136|1957
@@ -345,7 +343,6 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 ブランド : 五幕劇詩|イプセン作 ; 角田俊訳|https://ci.nii.ac.jp/ncid/BN05658088|1928
 ブリタニキュス|ジャン・ラシーヌ著 ; 内藤濯譯|https://ci.nii.ac.jp/ncid/BN01029218|1949
 ブレイク抒情詩抄|[ブレイク著] ; 壽岳文章譯|https://ci.nii.ac.jp/ncid/BA52062649|1931
-ブレイク抒情詩抄|壽岳文章譯|https://ci.nii.ac.jp/ncid/BN00915547|1931
 プウニンとバブリン|トゥルゲエニェフ作 ; 小沼達譯|https://ci.nii.ac.jp/ncid/BN01027369|1929
 プチ・ショウズ : チビ君|ドオデェ作 ; 八木さわ子訳|https://ci.nii.ac.jp/ncid/BN05656242|1933
 プロタゴラス|プラトン著 ; 菊池慧一郎訳|https://ci.nii.ac.jp/ncid/BN05657584|1927
@@ -376,9 +373,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 ポリウクト|コルネイユ作 ; 木村太郎訳|https://ci.nii.ac.jp/ncid/BN05664557|1928
 マイヤァ抒情詩集|高安國世譯|https://ci.nii.ac.jp/ncid/BN01034783|1951
 マクベス|シェイクスピア作 ; 野上豐一郎譯|https://ci.nii.ac.jp/ncid/BN08371431|1938
-マノン・レスコオ|アベ・プレヴォ作 ; 河盛好藏譯|https://ci.nii.ac.jp/ncid/BN06808448|1929
 マノン・レスコオ|アベ・プレヴオ作 ; 河盛好藏譯|https://ci.nii.ac.jp/ncid/BA87478654|1929
-マノン・レスコオ|アベ・プレヴォ作 ; 河盛好藏譯|https://ci.nii.ac.jp/ncid/BN08378339|1936
+マノン・レスコオ|アベ・プレヴォ作 ; 河盛好藏譯|https://ci.nii.ac.jp/ncid/BN06808448|1936
 マリーア・マグダレーナ|ヘッベル作 ; 鼓常良譯|https://ci.nii.ac.jp/ncid/BN01028703|1941
 マリー・アントアネット|シュテファン・ツワイク作 ; 高橋禎二, 秋山英夫訳|https://ci.nii.ac.jp/ncid/BN0045547X|1952
 マルクス・エンゲルスの藝術論|カール・マルクス, フリードリヒ・エンゲルス著 ; 上田進訳編|https://ci.nii.ac.jp/ncid/BN09573792|1934
@@ -507,8 +503,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 中野重治詩集 : 中野重治自選|中野重治著|https://ci.nii.ac.jp/ncid/BN01048507|1956
 爭鬪 : 社会劇|ゴールズワージ作 ; 石田幸太郎譯|https://ci.nii.ac.jp/ncid/BN05629104|1934
 二つの庭|宮本百合子作|https://ci.nii.ac.jp/ncid/BN00962081|1954
-二宮翁夜話|福住正兄筆記 ; 佐々井信太郎校訂|https://ci.nii.ac.jp/ncid/BN01847759|1933
 二宮翁夜話|福住正兄筆記 ; 佐々井信太郎編|https://ci.nii.ac.jp/ncid/BN10303864|1933
+二宮翁夜話|福住正兄筆記 ; 佐々井信太郎校訂|https://ci.nii.ac.jp/ncid/BN01847759|1933
 二日物語 ; 風流魔 : 他2篇|幸田露伴著|https://ci.nii.ac.jp/ncid/BN00960439|1953
 二百十日・野分|夏目漱石著|https://ci.nii.ac.jp/ncid/BN00946824|1941
 二都物語|ディッケンズ作 ; 佐々木直次郎譯|https://ci.nii.ac.jp/ncid/BN00923217|1936
@@ -610,8 +606,7 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 力の恆存について|ヘルムホルツ著 ; 矢島祐利譯|https://ci.nii.ac.jp/ncid/BN08377711|1949
 助六所縁江戸櫻|守隨憲治校訂|https://ci.nii.ac.jp/ncid/BA52331343|1958
 勞働者綱領|ラッサアル著 ; 小泉信三譯註|https://ci.nii.ac.jp/ncid/BN05144885|1928
-勞働者綱領|ラッサアル著 ; 小泉信三譯註|https://ci.nii.ac.jp/ncid/BN00913767|1928
-勞働者綱領|ラッサアル [著] ; 小泉信三譯註|https://ci.nii.ac.jp/ncid/BN04017215|1946
+勞働者綱領|ラッサアル著 ; 小泉信三譯註|https://ci.nii.ac.jp/ncid/BN00913767|1946
 勞賃・價格および利潤|マルクス著 ; 河上肇譯|https://ci.nii.ac.jp/ncid/BN09579165|1927
 化学の学校|オストワルド著 ; 都築洋次郎訳|https://ci.nii.ac.jp/ncid/BN03137696|NULL
 化學の學校|オストヴルト著 ; 都築洋次郎譯|https://ci.nii.ac.jp/ncid/BN01809283|1940
@@ -1013,7 +1008,7 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 新論・迪彜篇|会沢安著 ; 塚本勝義訳註|https://ci.nii.ac.jp/ncid/BN00911728|1931
 新論 ; 迪彜篇|會澤安著 ; 塚本勝義譯註|https://ci.nii.ac.jp/ncid/BN1404400X|1941
 方丈記|[鴨長明著] ; 山田孝雄校訂|https://ci.nii.ac.jp/ncid/BN02667912|1928
-方丈記|〔鴨長明著〕 ; 山田孝雄校訂|https://ci.nii.ac.jp/ncid/BA32798645|1933
+方丈記|[鴨長明著] ; 山田孝雄校訂|https://ci.nii.ac.jp/ncid/BA32798645|1933
 方丈記|[鴨長明著] ; 山田孝雄校訂|https://ci.nii.ac.jp/ncid/BN0104519X|1939
 方法序説|デカルト著 ; 落合太郎譯|https://ci.nii.ac.jp/ncid/BN00918862|1953
 方法序説|デカルト著 ; 落合太郎訳|https://ci.nii.ac.jp/ncid/BN02303370|1980
@@ -1513,8 +1508,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 認識の對象|リッケルト著 ; 山内得立譯|https://ci.nii.ac.jp/ncid/BN01816369|1927
 読書について : 他二篇|ショウペンハウエル著 ; 斎藤忍随訳|https://ci.nii.ac.jp/ncid/BN03711317|1960
 読書のすすめ : 読者が選んだ「私の好きな岩波文庫100」|岩波文庫編集部編|https://ci.nii.ac.jp/ncid/BA75295500|2003
-論語|武内義雄譯註|https://ci.nii.ac.jp/ncid/BN00933323|1933
 論語|武内義雄譯註|https://ci.nii.ac.jp/ncid/BN11401428|1933
+論語|武内義雄譯註|https://ci.nii.ac.jp/ncid/BN00933323|1933
 論語|武内義雄譯註|https://ci.nii.ac.jp/ncid/BN0153765X|1943
 講孟餘話|吉田松陰著 ; 廣瀬豊校訂|https://ci.nii.ac.jp/ncid/BN06809225|1943
 護持院ケ原の敵討 : 他二篇|森鴎外作|https://ci.nii.ac.jp/ncid/BN06775804|1933
@@ -1580,8 +1575,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 道徳系譜學|ニーチェ著 ; 木場深定譯|https://ci.nii.ac.jp/ncid/BA34753954|1940
 道標|宮本百合子作|https://ci.nii.ac.jp/ncid/BN00911364|1955
 道草|夏目漱石著|https://ci.nii.ac.jp/ncid/BN08166421|1928
-道草|夏目漱石著|https://ci.nii.ac.jp/ncid/BA62595104|1942
 道草|夏目漱石著|https://ci.nii.ac.jp/ncid/BN01530027|1942
+道草|夏目漱石著|https://ci.nii.ac.jp/ncid/BA62595104|1942
 道草|夏目漱石著|https://ci.nii.ac.jp/ncid/BN01032609|1952
 遺産 ; 百万フラン|モーパッサン作 ; 川口篤訳|https://ci.nii.ac.jp/ncid/BN00992774|1955
 酒樽 : 他六篇|モーパッサン作 ; 水野亮譯|https://ci.nii.ac.jp/ncid/BN00958572|1941
