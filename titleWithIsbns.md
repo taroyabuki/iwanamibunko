@@ -26,6 +26,8 @@ isbn|ncid|title|creators|date
 357005|https://ci.nii.ac.jp/ncid/BB16085477|復活|トルストイ作 ; 藤沼貴訳|2014
 325261|https://ci.nii.ac.jp/ncid/BN05040391|恋愛論|スタンダール著 ; 前川堅市訳|1959
 375087|https://ci.nii.ac.jp/ncid/BB20220736|恋愛論|スタンダール著 ; 杉本圭子訳|2015
+331111|https://ci.nii.ac.jp/ncid/BN00933436|憲法義解|伊藤博文著 ; 宮澤俊義校註|1940
+331119|https://ci.nii.ac.jp/ncid/BB28369653|憲法義解|伊藤博文著 ; 宮沢俊義校註|2019
 310237|https://ci.nii.ac.jp/ncid/BN01033703|桜の実の熟する時|島崎藤村作|1969
 360033|https://ci.nii.ac.jp/ncid/BB25564186|桜の実の熟する時|島崎藤村作|2018
 310272|https://ci.nii.ac.jp/ncid/BN02547171|歌行燈|泉鏡花作|1988
