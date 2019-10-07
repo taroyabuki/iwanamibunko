@@ -22,6 +22,8 @@ isbn|ncid|title|creators|date
 310051|https://ci.nii.ac.jp/ncid/BN01994210|即興詩人|アンデルセン [著] ; 森鴎外訳|1969
 336511|https://ci.nii.ac.jp/ncid/BN00924730|存在と時間|ハイデガー著 ; 桑木務訳|1960
 201189|https://ci.nii.ac.jp/ncid/BB12218364|存在と時間|ハイデガー著 ; 熊野純彦訳|2013
+300291|https://ci.nii.ac.jp/ncid/BN00993303|後拾遺和歌集|[藤原通俊撰] ; 西下經一校訂|1940
+300299|https://ci.nii.ac.jp/ncid/BB28880433|後拾遺和歌集|[藤原通俊撰] ; 久保田淳, 平田喜信校注|2019
 326197|https://ci.nii.ac.jp/ncid/BN00402032|復活|トルストイ作 ; 中村白葉訳|1979
 357005|https://ci.nii.ac.jp/ncid/BB16085477|復活|トルストイ作 ; 藤沼貴訳|2014
 325261|https://ci.nii.ac.jp/ncid/BN05040391|恋愛論|スタンダール著 ; 前川堅市訳|1959

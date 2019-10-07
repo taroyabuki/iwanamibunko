@@ -2,8 +2,8 @@ title|creators|ncid|date
 -|-|-|-
 「J.S.ミル經濟學原理」への評解|チェルヌイシェフスキー著 ; 西澤富夫譯|https://ci.nii.ac.jp/ncid/BN00912571|1951
 U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太郎訳|https://ci.nii.ac.jp/ncid/BN01009731|1977
-あしながおぢさん|ヂーン・ウェブスター作 ; 遠藤壽子訳|https://ci.nii.ac.jp/ncid/BN02571857|1933
 あしながおじさん|ヂーン・ウェブスター作 ; 遠藤壽子訳|https://ci.nii.ac.jp/ncid/BA50372102|1933
+あしながおぢさん|ヂーン・ウェブスター作 ; 遠藤壽子訳|https://ci.nii.ac.jp/ncid/BN02571857|1933
 あしながおぢさん|ヂーン・ウェブスター作 ; 遠藤寿子訳|https://ci.nii.ac.jp/ncid/BN00941321|1950
 あしながたまおしこがね しでむし かほじろからふとぎす その他|ファーブル [著] ; 山田吉彦譯|https://ci.nii.ac.jp/ncid/BN03805465|1951
 あだ花 : 他二篇|モーパッサン作 ; 杉捷夫譯|https://ci.nii.ac.jp/ncid/BN00958390|1938
@@ -755,7 +755,6 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 大つごもり・ゆく雲 : 他2篇|樋口一葉作|https://ci.nii.ac.jp/ncid/BN00942335|1938
 大乘起信論|宇井伯壽譯註|https://ci.nii.ac.jp/ncid/BN00938666|1936
 大地と人類の進化 : 歴史への地理學的序論|フェーヴル著 ; 飯塚浩二譯|https://ci.nii.ac.jp/ncid/BN12082154|1941
-大寺学校 ; ゆく年|久保田万太郎著|https://ci.nii.ac.jp/ncid/BN1604965X|1955
 大尉の娘|プーシキン作 ; 神西清訳|https://ci.nii.ac.jp/ncid/BN05630362|1939
 大無量寿経||https://ci.nii.ac.jp/ncid/BN11134503|1963
 大無量寿経||https://ci.nii.ac.jp/ncid/BN01966893|1963
