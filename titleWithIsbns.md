@@ -42,6 +42,8 @@ isbn|ncid|title|creators|date
 360032|https://ci.nii.ac.jp/ncid/BB25760741|田舎教師|田山花袋作|2018
 310911|https://ci.nii.ac.jp/ncid/BN00966038|眞空地帯|野間宏作|1956
 360031|https://ci.nii.ac.jp/ncid/BB25097342|真空地帯|野間宏作|2017
+341166|https://ci.nii.ac.jp/ncid/BN00927193|自由論|J.S.ミル著 ; 塩尻公明, 木村健康訳|1971
+390002|https://ci.nii.ac.jp/ncid/BB29882015|自由論|J・S・ミル著 ; 関口正司訳|2020
 310369|https://ci.nii.ac.jp/ncid/BN00937743|草の葉 : ホヰットマン詩集|有島武郎選譯|1934
 323091|https://ci.nii.ac.jp/ncid/BN01982175|草の葉 : ホイットマン詩集|ホイットマン [著] ; 杉木喬, 鍋島能弘, 酒本雅之訳|1969
 310054|https://ci.nii.ac.jp/ncid/BN01033769|青年|森鷗外作|1969

@@ -15,8 +15,6 @@ isbn|ncid|title|creators|date
 302381|https://ci.nii.ac.jp/ncid/BN01049190|日本民謡集|町田嘉章, 浅野建二編|1960
 302381|https://ci.nii.ac.jp/ncid/BB08094086|日本民謡集|町田嘉章, 浅野建二編|1963
 302381|https://ci.nii.ac.jp/ncid/BA83655962|日本民謡集|町田嘉章, 浅野建二編|2007
-302561|https://ci.nii.ac.jp/ncid/BN01008896|勧進帳|守隨憲治校訂|1941
-302561|https://ci.nii.ac.jp/ncid/BA34997711|勧進帳|守隨憲治校訂|1957
 310031|https://ci.nii.ac.jp/ncid/BN00963630|怪談牡丹燈籠|三遊亭圓朝作|1955
 310031|https://ci.nii.ac.jp/ncid/BA56757562|怪談牡丹燈籠|三遊亭円朝作|2002
 310032|https://ci.nii.ac.jp/ncid/BN00966548|眞景累ケ淵|三遊亭圓朝作|1956
