@@ -6,11 +6,11 @@
 
 ファイル名|重要度|ISBN|補足
 -|-|-|-
-isbnWithNicds.md|低|使い回し|1個のISBNに複数のNCIDが対応する，つまりISBNは同じだがCiNii Booksでは区別されているものを，機械的に抽出した結果
-isbnWithNicds2.md|高|使い回し|isbnWithNicds.mdのうち，著者や訳者の変更があったもの
-isbnWithNicds3.md|中|使い回し|isbnWithNicds.md（機械的抽出）には載っていて，isbnWithNicds2.md（深刻なもの）には載っていない，ISBNの使い回しが許容されるかもしれないもの（内容が大きく変更されている可能性はある）
-titleWithIsbns.md|低|変更|原書は同じだが，改版に伴って訳者が変わったり解説が追加されたりして，ISBNが変わったもの。常識的には変わって当然だが，岩波文庫では例外的
-itemWithoutIsbn.md|中|なし|CiNii Booksに登録されている岩波文庫タイトルで，ISBNがないもの（機械的抽出）
+[isbnWithNicds.md](isbnWithNicds.md)|低|使い回し|1個のISBNに複数のNCIDが対応する，つまりISBNは同じだがCiNii Booksでは区別されているものを，機械的に抽出した結果
+[isbnWithNicds2.md](isbnWithNicds2.md)|高|使い回し|isbnWithNicds.mdのうち，著者や訳者の変更があったもの
+[isbnWithNicds3.md](isbnWithNicds3.md)|中|使い回し|isbnWithNicds.md（機械的抽出）には載っていて，isbnWithNicds2.md（深刻なもの）には載っていない，ISBNの使い回しが許容されるかもしれないもの（内容が大きく変更されている可能性はある）
+[titleWithIsbns.md](titleWithIsbns.md)|低|変更|原書は同じだが，改版に伴って訳者が変わったり解説が追加されたりして，ISBNが変わったもの。常識的には変わって当然だが，岩波文庫では例外的
+[itemWithoutIsbn.md](itemWithoutIsbn.md)|中|なし|CiNii Booksに登録されている岩波文庫タイトルで，ISBNがないもの（機械的抽出）
 
 NCIDは[CiNii Books](https://ci.nii.ac.jp/books/)のID
 
