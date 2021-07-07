@@ -15,6 +15,10 @@ isbn|ncid|title|creators|date
 302381|https://ci.nii.ac.jp/ncid/BN01049190|日本民謡集|町田嘉章, 浅野建二編|1960
 302381|https://ci.nii.ac.jp/ncid/BB08094086|日本民謡集|町田嘉章, 浅野建二編|1963
 302381|https://ci.nii.ac.jp/ncid/BA83655962|日本民謡集|町田嘉章, 浅野建二編|2007
+302571|https://ci.nii.ac.jp/ncid/BC05595683|江戸怪談集|高田衛編・校注|1989
+302571|https://ci.nii.ac.jp/ncid/BC0559572X|江戸怪談集|高田衛編・校注|1989
+302571|https://ci.nii.ac.jp/ncid/BC05595741|江戸怪談集|高田衛編・校注|1989
+302571|https://ci.nii.ac.jp/ncid/BN02949732|江戸怪談集|高田衛編・校注|1989
 310031|https://ci.nii.ac.jp/ncid/BN00963630|怪談牡丹燈籠|三遊亭圓朝作|1955
 310031|https://ci.nii.ac.jp/ncid/BA56757562|怪談牡丹燈籠|三遊亭円朝作|2002
 310032|https://ci.nii.ac.jp/ncid/BN00966548|眞景累ケ淵|三遊亭圓朝作|1956
@@ -86,6 +90,8 @@ isbn|ncid|title|creators|date
 310462|https://ci.nii.ac.jp/ncid/BA5906682X|小僧の神様 : 他十篇|志賀直哉作|2002
 310464|https://ci.nii.ac.jp/ncid/BN00978208|暗夜行路|志賀直哉作|1962
 310464|https://ci.nii.ac.jp/ncid/BA67009231|暗夜行路|志賀直哉作|2004
+310464|https://ci.nii.ac.jp/ncid/BC04508071|暗夜行路|志賀直哉作|2004
+310464|https://ci.nii.ac.jp/ncid/BC04508231|暗夜行路|志賀直哉作|2004
 310496|https://ci.nii.ac.jp/ncid/BN00955880|眞知子|野上彌生子作|1952
 310496|https://ci.nii.ac.jp/ncid/BB08095883|眞知子|野上彌生子作|1962
 310496|https://ci.nii.ac.jp/ncid/BB08095828|眞知子|野上彌生子作|1964
@@ -131,6 +137,11 @@ isbn|ncid|title|creators|date
 311061|https://ci.nii.ac.jp/ncid/BB00928715|古句を観る|柴田宵曲著|2009
 311371|https://ci.nii.ac.jp/ncid/BN00951540|雪中梅|末廣鐵膓著 ; 小林智賀平校訂|1952
 311371|https://ci.nii.ac.jp/ncid/BN08414818|雪中梅|末廣鐵膓著 ; 小林智賀平校訂|1992
+312251|https://ci.nii.ac.jp/ncid/BB3022526X|次郎物語|下村湖人作|2020
+312251|https://ci.nii.ac.jp/ncid/BC01898300|次郎物語|下村湖人作|2020
+312251|https://ci.nii.ac.jp/ncid/BC02065446|次郎物語|下村湖人作|2020
+312251|https://ci.nii.ac.jp/ncid/BC0206548X|次郎物語|下村湖人作|2020
+312251|https://ci.nii.ac.jp/ncid/BC02549792|次郎物語|下村湖人作|2020
 320252|https://ci.nii.ac.jp/ncid/BN00267968|阿Q正伝 ; 狂人日記 : 他十二篇|魯迅作 ; 竹内好訳|1981
 320252|https://ci.nii.ac.jp/ncid/BA77516495|阿Q正伝 ; 狂人日記 : 他十二篇(吶喊)|魯迅作 ; 竹内好訳|2006
 321052|https://ci.nii.ac.jp/ncid/BN01994174|オイディプス王|ソポクレス [著] ; 藤沢令夫訳|1967
@@ -251,8 +262,20 @@ isbn|ncid|title|creators|date
 325263|https://ci.nii.ac.jp/ncid/BA83717924|赤と黒|スタンダール作 ; 桑原武夫, 生島遼一訳|2007
 325265|https://ci.nii.ac.jp/ncid/BN01982572|パルムの僧院|スタンダール作 ; 生島遼一訳|1969
 325265|https://ci.nii.ac.jp/ncid/BA90858303|パルムの僧院|スタンダール作 ; 生島遼一訳|2009
+325311|https://ci.nii.ac.jp/ncid/BC04409874|レ・ミゼラブル|ユーゴー作 ; 豊島与志雄訳|1987
+325311|https://ci.nii.ac.jp/ncid/BC04410498|レ・ミゼラブル|ユーゴー作 ; 豊島与志雄訳|1987
+325311|https://ci.nii.ac.jp/ncid/BC04410545|レ・ミゼラブル|ユーゴー作 ; 豊島与志雄訳|1987
+325311|https://ci.nii.ac.jp/ncid/BC0441067X|レ・ミゼラブル|ユーゴー作 ; 豊島与志雄訳|1987
+325311|https://ci.nii.ac.jp/ncid/BN01203993|レ・ミゼラブル|ユーゴー作 ; 豊島与志雄訳|1987
 325331|https://ci.nii.ac.jp/ncid/BN00993416|モンテ・クリスト伯|アレクサンドル・デュマ作 ; 山内義雄訳|1956
 325331|https://ci.nii.ac.jp/ncid/BA84667344|モンテ・クリスト伯|アレクサンドル・デュマ作 ; 山内義雄訳|2007
+325331|https://ci.nii.ac.jp/ncid/BC04505506|モンテ・クリスト伯|アレクサンドル・デュマ作 ; 山内義雄訳|2007
+325331|https://ci.nii.ac.jp/ncid/BC04505572|モンテ・クリスト伯|アレクサンドル・デュマ作 ; 山内義雄訳|2007
+325331|https://ci.nii.ac.jp/ncid/BC0450562X|モンテ・クリスト伯|アレクサンドル・デュマ作 ; 山内義雄訳|2007
+325331|https://ci.nii.ac.jp/ncid/BC04505674|モンテ・クリスト伯|アレクサンドル・デュマ作 ; 山内義雄訳|2007
+325331|https://ci.nii.ac.jp/ncid/BC04505721|モンテ・クリスト伯|アレクサンドル・デュマ作 ; 山内義雄訳|2007
+325331|https://ci.nii.ac.jp/ncid/BC04505765|モンテ・クリスト伯|アレクサンドル・デュマ作 ; 山内義雄訳|2007
+325331|https://ci.nii.ac.jp/ncid/BC04505787|モンテ・クリスト伯|アレクサンドル・デュマ作 ; 山内義雄訳|2007
 325338|https://ci.nii.ac.jp/ncid/BN01982743|三銃士|デュマ作 ; 生島遼一訳|1970
 325338|https://ci.nii.ac.jp/ncid/BA86067869|三銃士|デュマ作 ; 生島遼一訳|2008
 325343|https://ci.nii.ac.jp/ncid/BN01007179|カルメン|メリメ作 ; 杉捷夫訳|1960
@@ -274,6 +297,11 @@ isbn|ncid|title|creators|date
 325521|https://ci.nii.ac.jp/ncid/BA86068453|地獄の季節|ランボオ作 ; 小林秀雄訳|2008
 325541|https://ci.nii.ac.jp/ncid/BN00992333|魅せられたる魂|ロマン・ロラン作 ; 宮本正清訳|1954
 325541|https://ci.nii.ac.jp/ncid/BN04017907|魅せられたる魂|ロマン・ロラン作 ; 宮本正清訳|1989
+325551|https://ci.nii.ac.jp/ncid/BC0440826X|ジャン・クリストフ|ロマン・ローラン作 ; 豊島与志雄訳|1986
+325551|https://ci.nii.ac.jp/ncid/BC04408736|ジャン・クリストフ|ロマン・ローラン作 ; 豊島与志雄訳|1986
+325551|https://ci.nii.ac.jp/ncid/BC04409535|ジャン・クリストフ|ロマン・ローラン作 ; 豊島与志雄訳|1986
+325551|https://ci.nii.ac.jp/ncid/BC04409659|ジャン・クリストフ|ロマン・ローラン作 ; 豊島与志雄訳|1986
+325551|https://ci.nii.ac.jp/ncid/BN00486906|ジャン・クリストフ|ロマン・ローラン作 ; 豊島与志雄訳|1986
 325562|https://ci.nii.ac.jp/ncid/BN03644661|ベートーヴェンの生涯|ロマン・ロラン著 ; 片山敏彦訳|1965
 325562|https://ci.nii.ac.jp/ncid/BB03799266|ベートーヴェンの生涯|ロマン・ロラン著 ; 片山敏彦訳|2010
 325592|https://ci.nii.ac.jp/ncid/BN00905769|ソヴェト旅行記|ジイド [著] ; 小松清譯|1937
@@ -314,8 +342,6 @@ isbn|ncid|title|creators|date
 331151|https://ci.nii.ac.jp/ncid/BN01814068|茶の本|岡倉覺三著 ; 村岡博譯|1929
 331151|https://ci.nii.ac.jp/ncid/BA60002198|茶の本|岡倉覚三著 ; 村岡博訳|1961
 331151|https://ci.nii.ac.jp/ncid/BA81503238|茶の本|岡倉覚三著 ; 村岡博訳|2007
-331152|https://ci.nii.ac.jp/ncid/BN00917892|東邦の理想|岡倉覺三著 ; 村岡博譯|1943
-331152|https://ci.nii.ac.jp/ncid/BB22932942|東邦の理想|岡倉覚三著 ; 村岡博訳|1995
 331181|https://ci.nii.ac.jp/ncid/BN07517928|武士道|新渡戸稲造著 ; 矢内原忠雄訳|1974
 331181|https://ci.nii.ac.jp/ncid/BA81504591|武士道|新渡戸稲造著 ; 矢内原忠雄訳|2007
 331194|https://ci.nii.ac.jp/ncid/BN03596489|後世への最大遺物 ; デンマルク国の話|内村鑑三著|1976

@@ -9,8 +9,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 アガメムノン|アイスキュロス作 ; 呉茂一譯|https://ci.nii.ac.jp/ncid/BN01049554|1951
 アカルナイの人々|アリストファネース作 ; 村川堅太郎譯|https://ci.nii.ac.jp/ncid/BN01049995|1951
 アグネス・ベルナウエル|ヘッベル作 ; 吹田順助譯|https://ci.nii.ac.jp/ncid/BN01045928|1940
-あしながおじさん|ヂーン・ウェブスター作 ; 遠藤壽子訳|https://ci.nii.ac.jp/ncid/BA50372102|1933
 あしながおぢさん|ヂーン・ウェブスター作 ; 遠藤壽子訳|https://ci.nii.ac.jp/ncid/BN02571857|1933
+あしながおじさん|ヂーン・ウェブスター作 ; 遠藤壽子訳|https://ci.nii.ac.jp/ncid/BA50372102|1933
 あしながおぢさん|ヂーン・ウェブスター作 ; 遠藤寿子訳|https://ci.nii.ac.jp/ncid/BN00941321|1950
 あしながたまおしこがね しでむし かほじろからふとぎす その他|ファーブル [著] ; 山田吉彦譯|https://ci.nii.ac.jp/ncid/BN03805465|1951
 あだ花 : 他二篇|モーパッサン作 ; 杉捷夫譯|https://ci.nii.ac.jp/ncid/BN00958390|1938
@@ -103,8 +103,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 オー・ヘンリー短篇集|オー・ヘンリー [著] ; 清野暢一郎訳|https://ci.nii.ac.jp/ncid/BN05051977|1938
 おかめ笹|永井荷風作|https://ci.nii.ac.jp/ncid/BN00946030|1938
 おくのほそ道 : 附曾良随行日記|松尾芭蕉著 ; 杉浦正一郎校註|https://ci.nii.ac.jp/ncid/BN03775127|1957
-オネーギン : 韻文小説|プーシュキン作 ; 米川正夫譯|https://ci.nii.ac.jp/ncid/BN01032700|1927
 オネーギン : 韻文小説|プーシュキン作 ; 米川正夫譯|https://ci.nii.ac.jp/ncid/BA58043986|1927
+オネーギン : 韻文小説|プーシュキン作 ; 米川正夫譯|https://ci.nii.ac.jp/ncid/BN01032700|1927
 オネーギン : 韻文小説|プーシュキン作 ; 米川正夫譯|https://ci.nii.ac.jp/ncid/BN10877499|1938
 オブローモフ|ゴンチャロフ作 ; 米川正夫譯|https://ci.nii.ac.jp/ncid/BN01526132|1947
 オブローモフ主義とは何か|ドブロリューホフ著 ; 金子幸彦譯|https://ci.nii.ac.jp/ncid/BN01799339|1952
@@ -127,8 +127,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 カラマーゾフの兄弟|ドストエーフスキイ作 ; 米川正夫譯|https://ci.nii.ac.jp/ncid/BA89075262|1941
 ガリア戰記|カエサル [著] ; 近山金次譯|https://ci.nii.ac.jp/ncid/BN01810511|1942
 ガリヴァの航海|スウィフト作 ; 野上豊一郎譯|https://ci.nii.ac.jp/ncid/BN0559745X|1941
-カルメン|メリメ作 ; 杉捷夫譯|https://ci.nii.ac.jp/ncid/BB12898462|1929
 カルメン|メリメ作 ; 杉捷夫譯|https://ci.nii.ac.jp/ncid/BN06652826|1929
+カルメン|メリメ作 ; 杉捷夫譯|https://ci.nii.ac.jp/ncid/BB12898462|1929
 カレワラ : フィンランド敍事詩|森本覺丹譯|https://ci.nii.ac.jp/ncid/BN05056278|1939
 カンタベリー物語|チョーサー[著] ; 桝井迪夫訳|https://ci.nii.ac.jp/ncid/BN06550509|1973
 カンディダ ; ウォーレン夫人の職業 : 他一篇|バァナード・ショウ作 ; 市川又彦譯|https://ci.nii.ac.jp/ncid/BN00931962|1941
@@ -188,8 +188,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 ゴロヴィリヨフ家の人々|シチェードリン作 ; 湯淺芳子譯|https://ci.nii.ac.jp/ncid/BN01795870|1949
 コロンバ|メリメ作 ; 杉捷夫譯|https://ci.nii.ac.jp/ncid/BN05612724|1931
 コロンバ|メリメ著 ; 杉捷夫訳|https://ci.nii.ac.jp/ncid/BN14360735|1949
-サーニン|アルツイバーシェフ作 ; 中村白葉譯|https://ci.nii.ac.jp/ncid/BB17432907|1929
 サーニン|アルツイバーシェフ作 ; 中村白葉譯|https://ci.nii.ac.jp/ncid/BN08687195|1929
+サーニン|アルツイバーシェフ作 ; 中村白葉譯|https://ci.nii.ac.jp/ncid/BB17432907|1929
 サイラス・マアナー|G・エリオット作 ; 土井治譯|https://ci.nii.ac.jp/ncid/BN00931339|1952
 ざうむし その他||https://ci.nii.ac.jp/ncid/BN03806253|1930
 ざうむし その他|ファーブル [著] ; 林達夫, 山田吉彦譯|https://ci.nii.ac.jp/ncid/BN15700726|1951
@@ -424,8 +424,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 蠟燭の科學|ファラデー著 ; クルックス編 ; 矢島祐利譯|https://ci.nii.ac.jp/ncid/BN05138168|1933
 ロシアにおける資本主義の發展|レーニン [著] ; 大山岩雄, 西雅雄共譯|https://ci.nii.ac.jp/ncid/BN04025235|1936
 ロシアにおける資本主義の發展 : 大工業のための國内史上の成立過程|レーニン[著] ; 大山岩雄, 西雅雄譯|https://ci.nii.ac.jp/ncid/BN00889367|1952
-ロシヤにおける革命思想の發達について|ゲルツェン著 ; 金子幸彦譯|https://ci.nii.ac.jp/ncid/BN04458673|1950
 ロシヤにおける革命思想の發達について|ゲルツェン著 ; 金子幸彦譯|https://ci.nii.ac.jp/ncid/BA54612387|1950
+ロシヤにおける革命思想の發達について|ゲルツェン著 ; 金子幸彦譯|https://ci.nii.ac.jp/ncid/BN04458673|1950
 ロシヤ文学史|ゴーリキー著 ; 山村房次訳|https://ci.nii.ac.jp/ncid/BN01810227|1958
 ロダン|リルケ著 ; 高安國世譯|https://ci.nii.ac.jp/ncid/BN00919151|1941
 ロックの娘 ; ミス・ハリエット : 他九篇|モーパッサン作 ; 川口篤訳|https://ci.nii.ac.jp/ncid/BN00993700|1956
@@ -455,8 +455,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 萬暦赤繪 : 他二十二篇|志賀直哉作|https://ci.nii.ac.jp/ncid/BA30240379|1938
 萬暦赤繪 : 短篇集|志賀直哉作|https://ci.nii.ac.jp/ncid/BN00977806|1938
 萬葉集 : 新訓|佐々木信綱編|https://ci.nii.ac.jp/ncid/BN00990134|1927
-萬葉集 : 新訓|佐々木信綱編|https://ci.nii.ac.jp/ncid/BB0814332X|1939
 萬葉集 : 新訓|佐々木信綱編|https://ci.nii.ac.jp/ncid/BN01004385|1939
+萬葉集 : 新訓|佐々木信綱編|https://ci.nii.ac.jp/ncid/BB0814332X|1939
 萬載狂歌集|[四方赤良撰] ; 野崎左文校訂|https://ci.nii.ac.jp/ncid/BN01045994|1930
 三人の追憶|ゴーリキィ作 ; 湯淺芳子訳|https://ci.nii.ac.jp/ncid/BN05615620|1938
 三人妻|尾崎紅葉作|https://ci.nii.ac.jp/ncid/BN05838884|1940
@@ -515,9 +515,9 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 五重塔|幸田露伴著|https://ci.nii.ac.jp/ncid/BN00977996|1927
 亞細亞の光|エドヰン・アーノルド作 ; 島村苳三譯|https://ci.nii.ac.jp/ncid/BN05586883|1940
 人さまざま|テオフラストス著 ; 吉田正通譯|https://ci.nii.ac.jp/ncid/BN00931102|1938
-人と超人|バァナード・ショウ作 ; 市川又彦譯|https://ci.nii.ac.jp/ncid/BB17359330|1929
 人と超人|バァナード・ショオ作 ; 市川又彦譯|https://ci.nii.ac.jp/ncid/BA65725137|1929
 人と超人|バーナード・ショー作 ; 市川又彦訳|https://ci.nii.ac.jp/ncid/BN00954141|1929
+人と超人|バァナード・ショウ作 ; 市川又彦譯|https://ci.nii.ac.jp/ncid/BB17359330|1929
 人と超人|バァナード・ショオ作 ; 市川又彦譯|https://ci.nii.ac.jp/ncid/BN08689055|1951
 人は何で生きるか : トルストイ民話集|中村白葉譯|https://ci.nii.ac.jp/ncid/BN01036847|1932
 人は何で生きるか : トルストイ民話集 : 他三篇|中村白葉訳|https://ci.nii.ac.jp/ncid/BN13745370|1938
@@ -564,8 +564,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 何が彼女をそうさせたか|藤森成吉作|https://ci.nii.ac.jp/ncid/BN00969105|1957
 何を爲すべきか|ニコライ・レーニン著 ; 平田良衞訳|https://ci.nii.ac.jp/ncid/BN1265532X|1930
 何處へ・泥人形 : 他二篇|正宗白鳥作|https://ci.nii.ac.jp/ncid/BN00946697|1951
-余は如何にして基督信徒となりし乎|内村鑑三著 ; 鈴木俊郎訳|https://ci.nii.ac.jp/ncid/BA33317006|1938
 余は如何にして基督信徒となりし乎|内村鑑三著 ; 鈴木俊郎譯|https://ci.nii.ac.jp/ncid/BN00995717|1938
+余は如何にして基督信徒となりし乎|内村鑑三著 ; 鈴木俊郎訳|https://ci.nii.ac.jp/ncid/BA33317006|1938
 侏儒の言葉|芥川龍之介著|https://ci.nii.ac.jp/ncid/BN06835269|1932
 侏儒の言葉|芥川龍之介著|https://ci.nii.ac.jp/ncid/BA65382405|1939
 侏儒の言葉|芥川龍之介[著]|https://ci.nii.ac.jp/ncid/BA48765984|1950
@@ -580,8 +580,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 偸盗|芥川龍之介著|https://ci.nii.ac.jp/ncid/BA82740217|1937
 僧の婚禮|マイエル作 ; 伊藤武雄訳|https://ci.nii.ac.jp/ncid/BN05629228|1936
 優しき少年 : ホーソン短篇集|佐藤清譯|https://ci.nii.ac.jp/ncid/BN00930336|1934
-元祿快擧録|福本日南著|https://ci.nii.ac.jp/ncid/BA36717838|1939
 元祿快擧録|福本日南著|https://ci.nii.ac.jp/ncid/BN0814303X|1939
+元祿快擧録|福本日南著|https://ci.nii.ac.jp/ncid/BA36717838|1939
 兆民選集|中江篤介著 ; 嘉治隆一編校|https://ci.nii.ac.jp/ncid/BN00924570|1936
 光あるうちに光の中を歩め|トルストイ作 ; 米川正夫譯|https://ci.nii.ac.jp/ncid/BB01927718|1928
 光あるうちに光の中を歩め|トルストイ作 ; 米川正夫譯|https://ci.nii.ac.jp/ncid/BN06780247|1937
@@ -621,8 +621,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 十三夜 ; われから : 他3篇|樋口一葉作|https://ci.nii.ac.jp/ncid/BN00913392|1938
 十三夜 ; われから : 他3篇|樋口一葉作|https://ci.nii.ac.jp/ncid/BN01527623|1957
 十六夜日記|[阿佛尼著] ; 玉井幸助校訂|https://ci.nii.ac.jp/ncid/BN01038015|1934
-千一夜物語|豐島與志雄, 佐藤正彰, 渡邊一夫譯|https://ci.nii.ac.jp/ncid/BN02004890|1940
 千一夜物語|豐島與志雄, 佐藤正彰, 渡邊一夫譯|https://ci.nii.ac.jp/ncid/BA50780266|1940
+千一夜物語|豐島與志雄, 佐藤正彰, 渡邊一夫譯|https://ci.nii.ac.jp/ncid/BN02004890|1940
 千字文 : 評釋|山田準, 安本健吉註解|https://ci.nii.ac.jp/ncid/BB13307925|1937
 千字文 : 評釋|[周興嗣撰] ; 安本健吉註解|https://ci.nii.ac.jp/ncid/BN01802502|1937
 千家元麿詩集|武者小路實篤選|https://ci.nii.ac.jp/ncid/BN01047672|1951
@@ -633,8 +633,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 千鳥 : 他四篇|鈴木三重吉作|https://ci.nii.ac.jp/ncid/BN05638014|1935
 卍|谷崎潤一郎作|https://ci.nii.ac.jp/ncid/BN00977737|1950
 南小泉村 : 他4篇|眞山青果作|https://ci.nii.ac.jp/ncid/BN00960472|1953
-南海千一夜物語|スティヴンソン作 ; 中村徳三郎訳|https://ci.nii.ac.jp/ncid/BN05645326|1950
 南海千一夜物語|スティーヴンスン作 ; 中村徳三郎譯|https://ci.nii.ac.jp/ncid/BN02467050|1950
+南海千一夜物語|スティヴンソン作 ; 中村徳三郎訳|https://ci.nii.ac.jp/ncid/BN05645326|1950
 南総里見八犬伝|曲亭馬琴作 ; 小池藤五郎校訂|https://ci.nii.ac.jp/ncid/BN05065031|1937
 即興詩人|アンデルセン作 ; 森鴎外譯|https://ci.nii.ac.jp/ncid/BN01048529|1928
 原始基督教史考 . 基督教の成立|エンゲルス [著] ; 喜多野清一譯 . カウツキー [著] ; 喜多野清一譯|https://ci.nii.ac.jp/ncid/BN14849779|1929
@@ -718,8 +718,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 土|長塚節作|https://ci.nii.ac.jp/ncid/BN00940282|1949
 土佐日記|[紀貫之著] ; 池田龜鑑校訂|https://ci.nii.ac.jp/ncid/BN01038740|1930
 地代論|ロー ドベルトゥス著 ; 山口正吾譯|https://ci.nii.ac.jp/ncid/BN08125763|1928
-地代論|リチャード・ジョーンズ著 ; 鈴木鴻一郎譯|https://ci.nii.ac.jp/ncid/BN00910984|1950
 地代論|ロドベルトス著 ; 山口正吾譯|https://ci.nii.ac.jp/ncid/BN00911397|1950
+地代論|リチャード・ジョーンズ著 ; 鈴木鴻一郎譯|https://ci.nii.ac.jp/ncid/BN00910984|1950
 地平の彼方|オニール作 ; 清野暢一郎訳|https://ci.nii.ac.jp/ncid/BN05638364|1935
 地平の彼方|オニール作 ; 清野暢一郎譯|https://ci.nii.ac.jp/ncid/BN0093029X|1952
 地獄の季節|ランボオ作 ; 小林秀雄訳|https://ci.nii.ac.jp/ncid/BA35017080|1938
@@ -769,8 +769,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 太陽のない街|徳永直作|https://ci.nii.ac.jp/ncid/BN00912403|1950
 太陽の都|カムパネルラ著 ; 大岩誠譯|https://ci.nii.ac.jp/ncid/BN00910769|1950
 奉教人の死 : 他十三篇|芥川龍之介作|https://ci.nii.ac.jp/ncid/BN00912152|1948
-奥の細道 : その他芭蕉翁紀行集|芭蕉 [著] ; 伊藤松宇校訂|https://ci.nii.ac.jp/ncid/BN01043365|1927
 奥の細道 : その他芭蕉翁紀行集|芭蕉 [著] ; 伊藤松宇校訂|https://ci.nii.ac.jp/ncid/BA49384250|1927
+奥の細道 : その他芭蕉翁紀行集|芭蕉 [著] ; 伊藤松宇校訂|https://ci.nii.ac.jp/ncid/BN01043365|1927
 奥の細道 : その他芭蕉翁紀行集|芭蕉 [著] ; 伊藤松宇校訂|https://ci.nii.ac.jp/ncid/BA91217778|1936
 女だけの祭|アリストパネース [著] ; 呉茂一訳|https://ci.nii.ac.jp/ncid/BN01056367|1975
 女の一生|モーパッサン作 ; 杉捷夫譯|https://ci.nii.ac.jp/ncid/BN00961613|1934
@@ -901,14 +901,13 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 影を失くした男 : ペーター・シュレミール奇譚|シャミッソー作 ; 井汲越次訳|https://ci.nii.ac.jp/ncid/BN05596661|1936
 彼岸過迄|夏目漱石著|https://ci.nii.ac.jp/ncid/BN01032562|1939
 彼岸過迄|夏目漱石作|https://ci.nii.ac.jp/ncid/BN01975974|1968
-往生要集|源信[著] ; 花山信勝訳注|https://ci.nii.ac.jp/ncid/BN02451006|1942
 後世への最大遺物 ; デンマルク國の話|内村鑑三著|https://ci.nii.ac.jp/ncid/BN0099485X|1946
 後世への最大遺物 ; 他二篇|内村鑑三著|https://ci.nii.ac.jp/ncid/BN05611062|1937
-徒然草|[吉田兼好著] ; 西尾實校訂|https://ci.nii.ac.jp/ncid/BA5192450X|1928
 徒然草|[吉田兼好著] ; 西尾實校訂|https://ci.nii.ac.jp/ncid/BN01534582|1928
+徒然草|[吉田兼好著] ; 西尾實校訂|https://ci.nii.ac.jp/ncid/BA5192450X|1928
 徒然草|[吉田兼好著] ; 西尾實校訂|https://ci.nii.ac.jp/ncid/BA32798474|1932
-徒然草|[吉田兼好著] ; 西尾實校訂|https://ci.nii.ac.jp/ncid/BB0078849X|1938
 徒然草|[吉田兼好著] ; 西尾實校訂|https://ci.nii.ac.jp/ncid/BN01037704|1938
+徒然草|[吉田兼好著] ; 西尾實校訂|https://ci.nii.ac.jp/ncid/BB0078849X|1938
 徒然草|[吉田兼好著] ; 西尾実校注|https://ci.nii.ac.jp/ncid/BN01044619|1965
 從兄ポンス|バルザック作 ; 水野亮譯|https://ci.nii.ac.jp/ncid/BN00962718|1930
 御文章 : 蓮如上人|蓮如 [著] ; 脇谷撝謙校註|https://ci.nii.ac.jp/ncid/BN01847307|1936
@@ -919,8 +918,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 徳和歌後万載集|[四方赤良撰] ; 野崎左文校訂|https://ci.nii.ac.jp/ncid/BN01044415|1930
 心 : 日本の内面生活の暗示と影響|ラフカディオ・ヘルン作 ; 平井呈一譯|https://ci.nii.ac.jp/ncid/BN00922972|1951
 心理學|ウィリアム・ジェームズ著 ; 今田惠譯|https://ci.nii.ac.jp/ncid/BN0093045X|1939
-心理学原論|テオドール・リップス著 ; 大脇義一譯|https://ci.nii.ac.jp/ncid/BA89871304|1934
 心理学原論|テオドール・リップス著 ; 大脇義一譯|https://ci.nii.ac.jp/ncid/BN0093037X|1934
+心理学原論|テオドール・リップス著 ; 大脇義一譯|https://ci.nii.ac.jp/ncid/BA89871304|1934
 思ひ出す事など ; 修善寺日記|夏目漱石著|https://ci.nii.ac.jp/ncid/BN00946245|1941
 思出の記 : 小説|徳冨健次郎作|https://ci.nii.ac.jp/ncid/BN01032369|1938
 思出の記  : 小説|徳冨健次郎作|https://ci.nii.ac.jp/ncid/BN01033995|1969
@@ -959,9 +958,9 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 或る女|有島武郎作|https://ci.nii.ac.jp/ncid/BN00913326|1950
 或る少女の死まで : 他2篇|室生犀星作|https://ci.nii.ac.jp/ncid/BN00977883|1952
 或賣笑婦の話 ; 蒼白い月 : 他7篇|徳田秋聲作|https://ci.nii.ac.jp/ncid/BN0096338X|1955
-戰争と平和|トルストイ作 ; 米川正夫譯|https://ci.nii.ac.jp/ncid/BA39964276|1927
 戰爭と平和|トルストイ作 ; 米川正夫譯|https://ci.nii.ac.jp/ncid/BN03884541|1927
 戰争と平和|トルストイ作 ; 米川正夫譯|https://ci.nii.ac.jp/ncid/BN10016170|1927
+戰争と平和|トルストイ作 ; 米川正夫譯|https://ci.nii.ac.jp/ncid/BA39964276|1927
 戰争と平和|トルストイ作 ; 米川正夫訳|https://ci.nii.ac.jp/ncid/BA48144750|1939
 戰争と平和|トルストイ作 ; 米川正夫訳|https://ci.nii.ac.jp/ncid/BN01798165|1955
 戰爭論|クラウゼビィツツ著 ; 馬込健之助譯|https://ci.nii.ac.jp/ncid/BN01807867|1933
@@ -991,9 +990,10 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 斷章|ノワ゛ーリス著 ; 小牧健夫,渡邊格司譯|https://ci.nii.ac.jp/ncid/BN00926860|1941
 新古今和歌集|佐々木信綱校訂|https://ci.nii.ac.jp/ncid/BN00991851|1929
 新古今和歌集|佐佐木信綱校訂|https://ci.nii.ac.jp/ncid/BN0099167X|1929
-新古今和歌集|佐佐木信綱校訂|https://ci.nii.ac.jp/ncid/BA48496306|1932
 新古今和歌集|佐佐木信綱校訂|https://ci.nii.ac.jp/ncid/BA72684368|1932
+新古今和歌集|佐佐木信綱校訂|https://ci.nii.ac.jp/ncid/BA48496306|1932
 新島襄書簡集|同志社編|https://ci.nii.ac.jp/ncid/BN00903082|1954
+新島襄書簡集|同志社編|https://ci.nii.ac.jp/ncid/BC04625359|1954
 新撰山家集|[西行著] ; 佐々木信綱校訂|https://ci.nii.ac.jp/ncid/BN02578244|1928
 新撰山家集|西行 [著] ; 佐佐木信綱校訂|https://ci.nii.ac.jp/ncid/BA4574554X|1939
 新日本の図南の夢|菅沼貞風著|https://ci.nii.ac.jp/ncid/BN12729007|1942
@@ -1017,7 +1017,6 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 日暮硯|恩田木工[著] ; 西尾實, 林博校注|https://ci.nii.ac.jp/ncid/BN00925675|1941
 日本の下層社會|横山源之助著|https://ci.nii.ac.jp/ncid/BN00918035|1949
 日本の昔ばなし|關敬吾編|https://ci.nii.ac.jp/ncid/BN00947339|1956
-日本の目覚め|岡倉覚三著 ; 村岡博訳|https://ci.nii.ac.jp/ncid/BN00920922|1936
 日本唱歌集|堀内敬三, 井上武士編|https://ci.nii.ac.jp/ncid/BA30112550|1997
 日本外史|頼山陽著 ; 頼成一訳|https://ci.nii.ac.jp/ncid/BN01530402|1938
 日本幽因記|ゴロヴニン著 ; 井上満訳|https://ci.nii.ac.jp/ncid/BA46751628|1943
@@ -1092,9 +1091,9 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 柳多留 : 誹風|山澤英雄校訂|https://ci.nii.ac.jp/ncid/BN00994962|1950
 桂園一枝 : 香川景樹歌集|[香川景樹著] ; 正宗敦夫校訂|https://ci.nii.ac.jp/ncid/BN16152422|1939
 桜の園|チェーホフ作 ; 湯浅芳子訳|https://ci.nii.ac.jp/ncid/BN05050147|1950
+櫻の園 : 喜劇四幕|チェーホフ作 ; 米川正夫訳|https://ci.nii.ac.jp/ncid/BA5464159X|1927
 櫻の園 : 喜劇四幕|チェーホフ作 ; 米川正夫譯|https://ci.nii.ac.jp/ncid/BB17362550|1927
 櫻の園 : 喜劇四幕|チェーホフ作 ; 米川正夫訳|https://ci.nii.ac.jp/ncid/BB23286300|1927
-櫻の園 : 喜劇四幕|チェーホフ作 ; 米川正夫訳|https://ci.nii.ac.jp/ncid/BA5464159X|1927
 櫻の園 : 喜劇四幕|チェーホフ作 ; 米川正夫譯|https://ci.nii.ac.jp/ncid/BA30568495|1938
 櫻の實の熟する時|島崎藤村著|https://ci.nii.ac.jp/ncid/BN00941092|1929
 桜の実の熟する時|島崎藤村著|https://ci.nii.ac.jp/ncid/BN05056493|1958
@@ -1123,16 +1122,16 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 歎異抄|[親鸞述] ; [唯圓編] ; 金子大栄校訂|https://ci.nii.ac.jp/ncid/BN01968006|1958
 正法眼藏|道元襌師著 ; 衛藤即應校註|https://ci.nii.ac.jp/ncid/BN00939002|1939
 正法眼蔵|道元禅師著 ; 衛藤即応校註|https://ci.nii.ac.jp/ncid/BN0153625X|1959
-正法眼藏隨聞記 : 道元語録|懷奘編 ; 和辻哲郎校訂|https://ci.nii.ac.jp/ncid/BN00994066|1929
 正法眼藏隨聞記 : 道元語録|懷奘編 ; 和辻哲郎校訂|https://ci.nii.ac.jp/ncid/BB00322438|1929
+正法眼藏隨聞記 : 道元語録|懷奘編 ; 和辻哲郎校訂|https://ci.nii.ac.jp/ncid/BN00994066|1929
 正法眼蔵随聞記 : 道元語録|懐奘編 ; 和辻哲郎校訂|https://ci.nii.ac.jp/ncid/BN07675962|1938
 正雪の二代目 : 他五篇|岡本綺堂作|https://ci.nii.ac.jp/ncid/BN01046250|1952
 武士道|新渡戸稲造著 ; 矢内原忠雄譯|https://ci.nii.ac.jp/ncid/BN00932615|1938
 武家義理物語|井原西鶴作 ; 和田萬吉校訂|https://ci.nii.ac.jp/ncid/BN02965284|1929
 武家義理物語|井原西鶴作 ; 横山重, 前田金五郎校注|https://ci.nii.ac.jp/ncid/BN00910587|1966
 武藏野|國木田獨歩作|https://ci.nii.ac.jp/ncid/BN00978285|1939
-武道伝来記|井原西鶴作 ; 和田萬吉校訂|https://ci.nii.ac.jp/ncid/BA29945967|1932
 武道伝来記|井原西鶴作 ; 和田萬吉校訂|https://ci.nii.ac.jp/ncid/BN02911376|1932
+武道伝来記|井原西鶴作 ; 和田萬吉校訂|https://ci.nii.ac.jp/ncid/BA29945967|1932
 歯車 : 他二篇|芥川竜之介著|https://ci.nii.ac.jp/ncid/BN0096907X|1957
 歴代名畫記|張彦遠撰 ; 小野勝年譯註|https://ci.nii.ac.jp/ncid/BB20125291|1937
 歴代名畫記|張彦遠撰 ; 小野勝年譯註|https://ci.nii.ac.jp/ncid/BA70602497|1937
@@ -1211,8 +1210,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 炭燒の娘|長塚節作|https://ci.nii.ac.jp/ncid/BN00911794|1939
 無限抱擁|瀧井孝作著|https://ci.nii.ac.jp/ncid/BA72454903|1941
 煙|トゥルゲーニェフ作 ; 原久一郎譯|https://ci.nii.ac.jp/ncid/BN01031322|1935
-煤煙|森田草平作|https://ci.nii.ac.jp/ncid/BN00912582|1932
 煤煙|森田草平作|https://ci.nii.ac.jp/ncid/BB17358983|1932
+煤煙|森田草平作|https://ci.nii.ac.jp/ncid/BN00912582|1932
 煩惱|ユジェーヌ・ダビ作 ; 山田弘譯|https://ci.nii.ac.jp/ncid/BN00980480|1953
 爛|徳田秋聲作|https://ci.nii.ac.jp/ncid/BN0091158X|1940
 父|ストリンドベリ作 ; 小宮豊隆訳|https://ci.nii.ac.jp/ncid/BN05638058|1927
@@ -1252,7 +1251,7 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 田舎教師|田山花袋作|https://ci.nii.ac.jp/ncid/BA5484230X|1943
 田舎教師|田山花袋著|https://ci.nii.ac.jp/ncid/BN01031231|1958
 甲陽軍鑑|古川哲史校訂|https://ci.nii.ac.jp/ncid/BN01811048|1950
-申樂談義|世阿彌作 ; 野上豊一郎校註|https://ci.nii.ac.jp/ncid/BN06810326|1928
+申樂談義|世阿彌作 ; 野上豐一郎校註|https://ci.nii.ac.jp/ncid/BN06810326|1928
 病牀六尺|正岡子規著|https://ci.nii.ac.jp/ncid/BN01001718|1927
 痴愚神禮讃|エラスムス [著] ; 渡邊一夫譯|https://ci.nii.ac.jp/ncid/BN00936343|1954
 白い牙|ヂャック・ロンドン作 ; 本多顯彰訳|https://ci.nii.ac.jp/ncid/BN08173063|1936
@@ -1299,8 +1298,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 福翁自傳|福澤諭吉著|https://ci.nii.ac.jp/ncid/BN05806709|1944
 福翁自傳|福沢諭吉著|https://ci.nii.ac.jp/ncid/BN00903195|1954
 福翁自傳 : 慶應義塾創立九十年記念|福澤諭吉著|https://ci.nii.ac.jp/ncid/BA91856187|1944
-科學と假説|アンリ・ポアンカレ著 ; 河野伊三郎譯|https://ci.nii.ac.jp/ncid/BN12925118|1938
 科学と仮説|ポアンカレ著 ; 河野伊三郎訳|https://ci.nii.ac.jp/ncid/BN00919173|1938
+科學と假説|アンリ・ポアンカレ著 ; 河野伊三郎譯|https://ci.nii.ac.jp/ncid/BN12925118|1938
 科學と方法|ポアンカレ著 ; 吉田洋一譯|https://ci.nii.ac.jp/ncid/BN01535097|1927
 科學の價値|アンリ・ポアンカレ著 ; 田邊元譯|https://ci.nii.ac.jp/ncid/BN05140760|1927
 科学の価値|アンリ・ポアンカレ著 ; 田辺元訳|https://ci.nii.ac.jp/ncid/BN05596231|1927
@@ -1365,13 +1364,13 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 緑の館 : 熱帯林ロマンス|ハドスン作 ; 村山勇三訳|https://ci.nii.ac.jp/ncid/BN07693873|1937
 緑の館 : 熱帯林ロマンス|ハドスン作 ; 村山勇三譯|https://ci.nii.ac.jp/ncid/BN00925835|1951
 緑の鸚鵡 : 一幕の猟奇劇 : 他一篇|シュニッツレル作 ; 茅野蕭々訳|https://ci.nii.ac.jp/ncid/BN05664717|1936
-罪と罰|ドストエーフスキイ作 ; 中村白葉譯|https://ci.nii.ac.jp/ncid/BA51850957|1928
 罪と罰|ドストエーフスキィ作 ; 中村白葉譯|https://ci.nii.ac.jp/ncid/BN06780407|1928
+罪と罰|ドストエーフスキイ作 ; 中村白葉譯|https://ci.nii.ac.jp/ncid/BA51850957|1928
 羅生門 ; 鼻 ; 芋粥|芥川龍之介作|https://ci.nii.ac.jp/ncid/BN00913097|1946
 美と芸術の理論 : カリアス書簡|シラー著 ; 草薙正夫訳|https://ci.nii.ac.jp/ncid/BN01534334|1936
 老妻物語|アーノルド・ベネット作 ; 小山東一訳|https://ci.nii.ac.jp/ncid/BN06476723|1941
 老子|武内義雄譯註|https://ci.nii.ac.jp/ncid/BN01799714|1943
-耳袋|根岸守信原編 ;  柳田國男 , 尾崎恆雄校訂|https://ci.nii.ac.jp/ncid/BN02575734|1939
+耳袋|根岸守信編 ;  柳田國男, 尾崎恆雄校訂|https://ci.nii.ac.jp/ncid/BN02575734|1939
 聖アントワヌの誘惑|フローベール作 ; 渡邊一夫譯|https://ci.nii.ac.jp/ncid/BN00996764|1940
 聖たまこがね その他|ファーブル [著] ; 林達夫, 山田吉彦譯|https://ci.nii.ac.jp/ncid/BN03565408|1930
 聖たまこがね つちすがり あなばち その他||https://ci.nii.ac.jp/ncid/BN03654960|1942
@@ -1434,8 +1433,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 若山牧水歌集|若山牧水〔著〕 ; 若山喜志子選|https://ci.nii.ac.jp/ncid/BA30110646|1997
 苦の世界|宇野浩二作|https://ci.nii.ac.jp/ncid/BN00950220|1952
 茶の本|岡倉覺三著 ; 村岡博譯|https://ci.nii.ac.jp/ncid/BA65116922|1938
-草枕|夏目漱石著|https://ci.nii.ac.jp/ncid/BA32764381|1929
 草枕|夏目漱石著|https://ci.nii.ac.jp/ncid/BN08372387|1929
+草枕|夏目漱石著|https://ci.nii.ac.jp/ncid/BA32764381|1929
 草枕|夏目漱石著|https://ci.nii.ac.jp/ncid/BA57059437|1943
 草枕|夏目漱石著|https://ci.nii.ac.jp/ncid/BN05057066|1954
 荒野に生れて : 白い牙|ヂャック・ロンドン作 ; 本多顯彰訳|https://ci.nii.ac.jp/ncid/BN15993726|1936
@@ -1448,8 +1447,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 葦と泥|ブラスコ・イバーニェス作 ; 高橋正武譯|https://ci.nii.ac.jp/ncid/BN01051035|1940
 蒲団・一兵卒|田山花袋作|https://ci.nii.ac.jp/ncid/BN01031719|1930
 蓼喰う蟲|谷崎潤一郎作|https://ci.nii.ac.jp/ncid/BA47809177|1948
-蓼喰う虫|谷崎潤一郎作|https://ci.nii.ac.jp/ncid/BN01977492|1970
 蓼喰う虫|谷崎潤一郎作|https://ci.nii.ac.jp/ncid/BN05927372|1970
+蓼喰う虫|谷崎潤一郎作|https://ci.nii.ac.jp/ncid/BN01977492|1970
 蓼喰ふ蟲|谷崎潤一郎作|https://ci.nii.ac.jp/ncid/BN00913993|1948
 蕪村俳句集|与謝蕪村著 ; 潁原退藏編註|https://ci.nii.ac.jp/ncid/BN00994598|1932
 蕪村俳句集|[与謝蕪村著] ; 潁原退藏編註|https://ci.nii.ac.jp/ncid/BA86752229|1935
@@ -1459,8 +1458,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 藤村詩抄|島崎藤村自選|https://ci.nii.ac.jp/ncid/BA30111081|1997
 藤村詩抄 : 島崎藤村自選|島崎藤村著|https://ci.nii.ac.jp/ncid/BN05655363|1927
 藤村詩抄 : 島崎藤村自選|島崎藤村著|https://ci.nii.ac.jp/ncid/BN16015840|1938
-蘭學事始|杉田玄白著 ; 野上豐一郎校注|https://ci.nii.ac.jp/ncid/BA48850187|1930
 蘭學事始|杉田玄白著 ; 野上豐一郎校註|https://ci.nii.ac.jp/ncid/BN01806343|1930
+蘭學事始|杉田玄白著 ; 野上豐一郎校注|https://ci.nii.ac.jp/ncid/BA48850187|1930
 蘭學事始|杉田玄白著 ; 野上豐一郎校注|https://ci.nii.ac.jp/ncid/BA56444126|1939
 蘭学事始|杉田玄白著 ; 緒方富雄校註|https://ci.nii.ac.jp/ncid/BN01536023|1959
 虐げられた人々|ドストイェーフスキー作 ; 小沼文彦譯|https://ci.nii.ac.jp/ncid/BN01801667|1953
@@ -1497,8 +1496,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 訳註李太白詩選|幸田露伴校閲 ; 漆山又四郎訳註|https://ci.nii.ac.jp/ncid/BN00970614|1932
 譯註杜詩|杜甫著 ; 漆山又四郎譯註|https://ci.nii.ac.jp/ncid/BN02578801|1929
 譯註良寛詩集|大島花束, 原田勘平譯註|https://ci.nii.ac.jp/ncid/BA45471047|1933
-詩と眞實|ゲーテ著 ; 小牧健夫譯|https://ci.nii.ac.jp/ncid/BN08683536|1941
 詩と眞實|ゲーテ著 ; 小牧健夫譯|https://ci.nii.ac.jp/ncid/BN06053661|1941
+詩と眞實|ゲーテ著 ; 小牧健夫譯|https://ci.nii.ac.jp/ncid/BN08683536|1941
 詩と眞實|ゲーテ著 ; 小牧健夫譯|https://ci.nii.ac.jp/ncid/BN01029681|1949
 詩のための詩 : 他四篇|ブラッドリ著 ; 橘忠衞譯|https://ci.nii.ac.jp/ncid/BN05620518|1941
 詩学|ボワロー著 ; 丸山和馬訳註|https://ci.nii.ac.jp/ncid/BN05616317|1934
@@ -1507,8 +1506,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 認識の對象|リッケルト著 ; 山内得立譯|https://ci.nii.ac.jp/ncid/BN01816369|1927
 読書について : 他二篇|ショウペンハウエル著 ; 斎藤忍随訳|https://ci.nii.ac.jp/ncid/BN03711317|1960
 読書のすすめ : 読者が選んだ「私の好きな岩波文庫100」|岩波文庫編集部編|https://ci.nii.ac.jp/ncid/BA75295500|2003
-論語|武内義雄譯註|https://ci.nii.ac.jp/ncid/BN11401428|1933
 論語|武内義雄譯註|https://ci.nii.ac.jp/ncid/BN00933323|1933
+論語|武内義雄譯註|https://ci.nii.ac.jp/ncid/BN11401428|1933
 論語|武内義雄譯註|https://ci.nii.ac.jp/ncid/BN0153765X|1943
 講孟餘話|吉田松陰著 ; 廣瀬豊校訂|https://ci.nii.ac.jp/ncid/BN06809225|1943
 護持院ケ原の敵討 : 他二篇|森鴎外作|https://ci.nii.ac.jp/ncid/BN06775804|1933
@@ -1519,8 +1518,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 貧しき人々の群 : 他二篇|宮本百合子作|https://ci.nii.ac.jp/ncid/BN00956001|1952
 貧乏物語|河上肇著 ; 大内兵衞解題|https://ci.nii.ac.jp/ncid/BN0091638X|1947
 貧乏物語|河上肇著 ; 大内兵衛解題|https://ci.nii.ac.jp/ncid/BN05067729|1965
-賃勞働と資本|マルクス著 ; 河上肇訳|https://ci.nii.ac.jp/ncid/BN05144207|1927
 賃勞働と資本|カール・マルクス著 ; 長谷部文雄譯|https://ci.nii.ac.jp/ncid/BN05050919|1927
+賃勞働と資本|マルクス著 ; 河上肇訳|https://ci.nii.ac.jp/ncid/BN05144207|1927
 賃勞働と資本|カール・マルクス著 ; 長谷部文雄譯|https://ci.nii.ac.jp/ncid/BN1232227X|1935
 賃労働と資本|カール・マルクス著 ; 長谷部文雄訳|https://ci.nii.ac.jp/ncid/BN02001713|1954
 賃労働と資本|カール・マルクス著 ; 宮本義男, 山中隆次訳|https://ci.nii.ac.jp/ncid/BA61760136|1969
@@ -1536,8 +1535,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 資本論綱要 : 他四篇|マルクス, エンゲルス著 ; 向坂逸郎譯|https://ci.nii.ac.jp/ncid/BN01532962|1953
 資本論解説|カール・カウツキー著 ; 大里伝平訳|https://ci.nii.ac.jp/ncid/BN0561707X|1933
 賢者ナータン|レッシング作 ; 大庭米治郎訳|https://ci.nii.ac.jp/ncid/BN05605627|1927
-赤と黒|スタンダール作 ; 桑原武夫, 生島遼一譯|https://ci.nii.ac.jp/ncid/BN10751027|1933
 赤と黒|スタンダール[著] ; 桑原武夫, 生島遼一譯|https://ci.nii.ac.jp/ncid/BA42008410|1933
+赤と黒|スタンダール作 ; 桑原武夫, 生島遼一譯|https://ci.nii.ac.jp/ncid/BN10751027|1933
 赤と黒|スタンダール作 ; 桑原武夫, 生島遼一譯|https://ci.nii.ac.jp/ncid/BN08377096|1940
 赤垣源藏|河竹默阿彌作|https://ci.nii.ac.jp/ncid/BN08370392|1928
 赤彦歌集|齋藤茂吉,久保田不二子選|https://ci.nii.ac.jp/ncid/BN05584571|1936
@@ -1574,18 +1573,18 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 道徳系譜學|ニーチェ著 ; 木場深定譯|https://ci.nii.ac.jp/ncid/BA34753954|1940
 道標|宮本百合子作|https://ci.nii.ac.jp/ncid/BN00911364|1955
 道草|夏目漱石著|https://ci.nii.ac.jp/ncid/BN08166421|1928
-道草|夏目漱石著|https://ci.nii.ac.jp/ncid/BN01530027|1942
 道草|夏目漱石著|https://ci.nii.ac.jp/ncid/BA62595104|1942
+道草|夏目漱石著|https://ci.nii.ac.jp/ncid/BN01530027|1942
 道草|夏目漱石著|https://ci.nii.ac.jp/ncid/BN01032609|1952
 遺産 ; 百万フラン|モーパッサン作 ; 川口篤訳|https://ci.nii.ac.jp/ncid/BN00992774|1955
 酒樽 : 他六篇|モーパッサン作 ; 水野亮譯|https://ci.nii.ac.jp/ncid/BN00958572|1941
 野草|魯迅著 ; 竹内好訳|https://ci.nii.ac.jp/ncid/BN01039084|1955
-野菊の墓 : 他4篇|伊藤左千夫作|https://ci.nii.ac.jp/ncid/BN00969772|1951
 野菊の墓 : 他4篇|伊藤左千夫作|https://ci.nii.ac.jp/ncid/BA65905412|1951
+野菊の墓 : 他4篇|伊藤左千夫作|https://ci.nii.ac.jp/ncid/BN00969772|1951
 野鴨|イプセン作 ; 竹山道雄譯|https://ci.nii.ac.jp/ncid/BN01049339|1938
 金枝篇|フレイザー著 ; 永橋卓介譯|https://ci.nii.ac.jp/ncid/BN00951198|1951
-金槐和歌集|源實朝〔著〕 ; 斎藤茂吉校訂|https://ci.nii.ac.jp/ncid/BN00991829|1929
 金槐和歌集|源實朝 [著] ; 斎藤茂吉校訂|https://ci.nii.ac.jp/ncid/BA36493388|1929
+金槐和歌集|源實朝〔著〕 ; 斎藤茂吉校訂|https://ci.nii.ac.jp/ncid/BN00991829|1929
 金槐和歌集|齋藤茂吉校訂|https://ci.nii.ac.jp/ncid/BN00990214|1932
 金槐和歌集|齋藤茂吉校訂|https://ci.nii.ac.jp/ncid/BA43107316|1941
 金色夜叉|尾崎紅葉作|https://ci.nii.ac.jp/ncid/BN00949301|1939
@@ -1644,10 +1643,10 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 青春は美し : 他一篇|ヘルマン・ヘッセ作 ; 關泰祐譯|https://ci.nii.ac.jp/ncid/BN01042373|1939
 青春 : 他2篇|ハルベ作 ; 番匠谷英一譯|https://ci.nii.ac.jp/ncid/BN01037828|1941
 青春彷徨 : ペーター・カーメンチンド|ヘルマン・ヘッセ作 ; 関泰祐訳|https://ci.nii.ac.jp/ncid/BN05054126|1937
-青銅の基督|長與善郎著|https://ci.nii.ac.jp/ncid/BN00940191|1927
 青銅の基督|長與善郎著|https://ci.nii.ac.jp/ncid/BA44280407|1927
-青銅の基督|長与善郎作|https://ci.nii.ac.jp/ncid/BN01977594|1950
+青銅の基督|長與善郎著|https://ci.nii.ac.jp/ncid/BN00940191|1927
 青銅の基督|長與善郎著|https://ci.nii.ac.jp/ncid/BN08372241|1950
+青銅の基督|長与善郎作|https://ci.nii.ac.jp/ncid/BN01977594|1950
 靖獻遺言|淺見絅齋著 ; 五弓安二郎譯註|https://ci.nii.ac.jp/ncid/BN06640204|1939
 靜寂の宿 : 研究と隨筆|ヂョン・ゴールズワァジイ著 ; 本多顯彰譯|https://ci.nii.ac.jp/ncid/BN00916980|1933
 革命と反革命|マルクス, エンゲルス [著] ; 武田隆夫譯|https://ci.nii.ac.jp/ncid/BN0091417X|1955
@@ -1674,8 +1673,8 @@ U.S.A.|ジョン・ドス・パソス作 ; 渡辺利雄, 平野信行, 島田太
 高野聖・眉かくしの靈|泉鏡花作|https://ci.nii.ac.jp/ncid/BN01526722|1947
 高野聖 ; 眉かくしの霊|泉鏡花作|https://ci.nii.ac.jp/ncid/BN04968760|1957
 魅せられたる魂|ロマン・ロラン作 ; 宮本正清譯|https://ci.nii.ac.jp/ncid/BN06061604|1940
-魏志倭人傳 ; 後漢書倭傳 ; 宋書倭國傳 ; 隋書倭國傳|和田清,石原道博編譯|https://ci.nii.ac.jp/ncid/BN0092170X|1951
 魏志倭人伝 ; 後漢書倭伝 ; 宋書倭国伝 ; 隋書倭国伝|和田清, 石原道博編訳|https://ci.nii.ac.jp/ncid/BN01535392|1951
+魏志倭人傳 ; 後漢書倭傳 ; 宋書倭國傳 ; 隋書倭國傳|和田清,石原道博編譯|https://ci.nii.ac.jp/ncid/BN0092170X|1951
 魏志倭人傳 ; 後漢書倭傳 ; 宋書倭國傳 ; 隋書倭國傳|和田清 , 石原道博編譯|https://ci.nii.ac.jp/ncid/BA34977678|1954
 魏志倭人傳 ; 後漢書倭傳 ; 宋書倭國傳 ; 隋書倭國傳|和田清, 石原道博編訳|https://ci.nii.ac.jp/ncid/BA51429147|1957
 魔の山|トオマス・マン作 ; 關泰祐, 望月市惠譯|https://ci.nii.ac.jp/ncid/BA88339074|1939
